@@ -14,7 +14,7 @@
     @include('_partials.head.meta')
     @include('_partials.cms.identity_widget')
 
-    <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
+    <!-- <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}"> -->
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
