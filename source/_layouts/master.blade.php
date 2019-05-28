@@ -52,29 +52,21 @@
       <div id="logo" class="pull-left" >
         <h1><a href="/#intro" class="scrollto">Ruapehu College</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
-        <pop:content from="/">
-          <pop:crest resize="limit" width="100"  style="position: absolute; width: 100px;left:0;top:0;">
-            <img src="<pop:src />" alt="" title="" style=""/>
-          </pop:crest>
-          
-          
-          
-        </pop:content>
+            <img src="#" alt="Ruapehu College Crest" title="Ruapehu College Crest" style="position: absolute; width: 100px;left:0;top:0;"/>
       </div>
 
       <nav id="nav-menu-container">
         <ul class="nav-menu">
           <pop:sections except="home-page-slider">
-            <li class="<pop:active>menu-active</pop:active> <pop:sections repeat="false">menu-has-children</pop:sections>">
-              <a href="<pop:permalink/>"><pop:title/></a>
+            <li class="menu-active menu-has-children">
+              <a href=""><pop:title/></a>
               <pop:sections wrap="ul" break="li">
                 <pop:alternate_url><a href="<pop:value />"><pop:title/></a></pop:alternate_url>
                   <pop:no_alternate_url><a href="<pop:permalink/>"><pop:title/></a></pop:no_alternate_url>
               </pop:sections>
-             
             </li>
           </pop:sections>
-					<li class="social-links"><a href="https://www.facebook.com/RuapehuCollege/" class="facebook"><i class="fa fa-facebook"></i></a></li>
+			<li class="social-links"><a href="https://www.facebook.com/RuapehuCollege/" class="facebook"><i class="fa fa-facebook"></i></a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -83,7 +75,7 @@
   <!--==========================
     Intro Section
   ============================-->
-  <pop:region name="main"/>
+  @yield('content')
 
 
   <!--==========================
@@ -96,10 +88,7 @@
           
           <div class="col-lg-3 col-md-6 footer-info">
             <h3>Ruapehu College</h3>
-            <pop:content from="/">
-            <pop:home_footer_text/>
-              </pop:content>
-
+            Kia Ora Koutou. Ruapehu College is set at the foot of the beautiful Mt Ruapehu and the location defines who we are. Our students continue to seek knowledge so they can head into the future with skills that will ensure success. Whaia e koe te iti kahurangi; ki te tuohu koe, me he maunga teitei. Seek the treasure you value most deeply: if you bow your head, let it be to the lofty mountain.
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
@@ -122,10 +111,6 @@
 
             <div class="social-links">
               <a href="https://www.facebook.com/RuapehuCollege/" class="facebook"><i class="fa fa-facebook"></i></a>
-              <!--<a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>-->
             </div>
 
           </div>
