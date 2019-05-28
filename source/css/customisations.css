@@ -1,0 +1,141 @@
+h1 {
+	color: #2f568e  
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.content-section {
+    background: #fff;
+    background-size: cover;
+    padding: 60px 0 40px 0;
+}
+
+.side-nav {
+background: #f0f0f0;
+    padding: 1.5em 0 1.5em 2.5em;
+}
+
+.nav-menu > .menu-active > a {
+	color: #fff;
+  text-decoration: underline;
+}
+
+#header {
+	background-color: #111;
+  padding: 40px 0;
+    height: 128px;
+}
+#header #logo {
+position:relative;padding-left: 115px
+}
+#header #logo img {
+position: absolute; left:0;top:-32px;
+}
+#header.header-scrolled #logo {
+padding-left: 65px;
+}
+#header.header-scrolled #logo img {
+top:-15px; height: 62px;
+}
+
+#call-to-action {
+	background-position: 0 0;
+}
+
+
+.about-col {
+  background: #fff;
+  border-radius: 0 0 4px 4px;
+  box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
+  margin-bottom: 20px;
+}
+
+.about-col .img {
+  position: relative;
+}
+
+.about-col .img img {
+  border-radius: 4px 4px 0 0;
+}
+
+.about-col .icon {
+  width: 64px;
+  height: 64px;
+  padding-top: 8px;
+  text-align: center;
+  position: absolute;
+  background-color: rgb(46,87,142);
+  border-radius: 50%;
+  text-align: center;
+  border: 4px solid #fff;
+  left: calc( 50% - 32px);
+  bottom: -30px;
+  transition: 0.3s;
+}
+
+.about-col i {
+  font-size: 36px;
+  line-height: 1;
+  color: #fff;
+  transition: 0.3s;
+}
+
+.about-col:hover .icon {
+  background-color: #fff;
+}
+
+.about-col:hover i {
+  color: rgb(46,87,142);
+}
+
+.about-col .title {
+  color: #000;
+  text-align: center;
+  font-weight: 700;
+  font-size: 18px;
+  padding: 0;
+  margin: 40px 0 12px 0;
+}
+
+.about-col .title a {
+  color: #000;
+}
+
+.about-col .title a:hover {
+  color: rgb(46,87,142);
+}
+
+
+.about-col p {
+  font-size: 14px;
+  line-height: 24px;
+  color: #333;
+  margin-bottom: 0;
+  padding: 0 20px 20px 20px;
+}
+
+.social-links a {
+    font-size: 18px;
+    display: inline-block;
+    background: #333;
+    color: #eee;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+}
+.nav-menu .social-links a {
+    background: #2e578e;
+    color: #fff;
+}
+.nav-menu .social-links a:hover {
+	color: #fff;
+}
+
+#intro .carousel-item::before {
+background-color: transparent;}
