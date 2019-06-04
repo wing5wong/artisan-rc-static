@@ -697,7 +697,7 @@
                             <div class="contact-phone">
                                 <i class="ion-ios-telephone-outline"></i>
                                 <h3>Phone Number</h3>
-                                <p><a href="tel:+155895548855">06 385 8398</a></p>
+                                <p><a href="tel:+64-6-385-8398">06 385 8398</a></p>
                             </div>
                         </div>
 
