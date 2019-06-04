@@ -95,3 +95,16 @@ collections:
     - {label: "Image Filename", name: "image", widget: "image", required: false}
     - {label: "Body", name: "body", widget: "markdown"}
     - {label: "Tags", name: "tags", widget: "list", required: false}
+
+  - name: "international"
+    label: "International Pages"
+    label_singular: International Page
+    folder: "source/_international"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    fields:
+    - {label: "Title", name: "title", widget: "string", default: "Title"}
+    - {label: "Date", name: "date", widget: "date"}
+    - {label: "Image Filename", name: "image", widget: "image", required: false}
+    - {label: "Body", name: "body", widget: "markdown"}
+    - {label: "Tags", name: "tags", widget: "list", required: false}
