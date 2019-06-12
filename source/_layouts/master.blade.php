@@ -52,23 +52,156 @@
       <div id="logo" class="pull-left" >
         <h1><a href="/#intro" class="scrollto">Ruapehu College</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
-            <img src="#" alt="Ruapehu College Crest" title="Ruapehu College Crest" style="position: absolute; width: 100px;left:0;top:0;"/>
+            <img src="/images/crests/RCLogo.png" alt="Ruapehu College Crest" title="Ruapehu College Crest" style="width: 100px;"/>
       </div>
 
       <nav id="nav-menu-container">
         <ul class="nav-menu">
-          <pop:sections except="home-page-slider">
-            <li class="menu-active menu-has-children">
-              <a href=""><pop:title/></a>
-              <pop:sections wrap="ul" break="li">
-                <pop:alternate_url><a href="<pop:value />"><pop:title/></a></pop:alternate_url>
-                  <pop:no_alternate_url><a href="<pop:permalink/>"><pop:title/></a></pop:no_alternate_url>
-              </pop:sections>
+          
+            <li class="menu-has-children">
+              <a href="/our-school">Our School</a>
+              <ul><li>
+                
+                  <a href="/our-school/principal-s-message">Principal's Message</a>
+              </li><li>
+                
+                  <a href="/our-school/charter">Charter</a>
+              </li><li>
+                
+                  <a href="/our-school/staff">Staff</a>
+              </li><li>
+                
+                  <a href="/our-school/student-leaders">Student Leaders</a>
+              </li><li>
+                
+                  <a href="/our-school/board-of-trustees">Board of Trustees</a>
+              </li><li>
+                
+                  <a href="/our-school/policies">Policies</a>
+              </li><li>
+                
+                  <a href="/our-school/ruapehu-trust">Laurenson Trust</a>
+              </li><li>
+                
+                  <a href="/our-school/whanau-houses">Whanau / Houses</a>
+              </li><li>
+                
+                  <a href="/our-school/our-values-rock">Our Values (ROCK)</a>
+              </li><li>
+                
+                  <a href="/our-school/education-review-office">Education Review Office</a>
+              </li><li>
+                
+                  <a href="/our-school/term-dates">Term Dates</a>
+              </li></ul>
+             
             </li>
-          </pop:sections>
-			<li class="social-links"><a href="https://www.facebook.com/RuapehuCollege/" class="facebook"><i class="fa fa-facebook"></i></a></li>
+          
+            <li class="menu-has-children">
+              <a href="/curriculum" class="sf-with-ul">Curriculum</a>
+              <ul><li>
+                
+                  <a href="/curriculum/ncea">NCEA</a>
+              </li><li>
+                
+                  <a href="/curriculum/junior-curriculum">Junior Curriculum</a>
+              </li><li>
+                
+                  <a href="/curriculum/co-curricular">Co-Curricular</a>
+              </li><li>
+                
+                  <a href="/curriculum/sport">Sport</a>
+              </li><li>
+                
+                  <a href="/curriculum/culture">Culture</a>
+              </li><li>
+                
+                  <a href="/curriculum/snow-academy">Snow Academy</a>
+              </li><li>
+                
+                  <a href="/curriculum/weekly-timetable">Weekly Timetable</a>
+              </li><li>
+                
+                  <a href="/curriculum/performing-arts">Performing Arts </a>
+              </li><li>
+                
+                  <a href="/curriculum/examinations">Examinations </a>
+              </li><li>
+                
+                  <a href="/curriculum/curriculum-pathways">Curriculum Pathways</a>
+              </li></ul>
+             
+            </li>
+          
+            <li class="menu-has-children">
+              <a href="/enrolment" class="sf-with-ul">Enrolment</a>
+              <ul><li>
+                
+                  <a href="/enrolment/forms">Forms</a>
+              </li><li>
+                
+                  <a href="/enrolment/uniform">Uniform</a>
+              </li><li>
+                
+                  <a href="/enrolment/attendance">Attendance</a>
+              </li></ul>
+             
+            </li>
+          
+            <li class="menu-has-children">
+              <a href="/news" class="sf-with-ul">News</a>
+              <ul><li>
+                
+                  <a href="/news/school-newsletter">School Newsletters</a>
+              </li><li>
+                
+                  <a href="/news/upcoming-events">Upcoming Events</a>
+              </li><li>
+                <a href="https://kamar.ruapehu.school.nz/">Calendar</a>
+                  
+              </li></ul>
+             
+            </li>
+          
+            <li class="menu-has-children">
+              <a href="/international" class="sf-with-ul">International</a>
+              <ul><li>
+                
+                  <a href="/international/international-students">International Students</a>
+              </li><li>
+                
+                  <a href="/international/our-mountains-our-town">Our Mountains....Our Town</a>
+              </li><li>
+                
+                  <a href="/international/ohakune">Ohakune </a>
+              </li><li>
+                
+                  <a href="/international/application-process">Application Process</a>
+              </li><li>
+                
+                  <a href="/international/location">Why Ruapehu College?</a>
+              </li><li>
+                
+                  <a href="/international/location-2">Why Ohakune?</a>
+              </li><li>
+                
+                  <a href="/international/location-3">Why NZ?</a>
+              </li><li>
+                
+                  <a href="/international/fees">Fees</a>
+              </li></ul>
+             
+            </li>
+          
+            <li>
+              <a href="/contact">Contact Us</a>
+              
+             
+            </li>
+          
+					<li class="social-links"><a href="https://www.facebook.com/RuapehuCollege/" class="facebook"><i class="fa fa-facebook"></i></a></li>
         </ul>
-      </nav><!-- #nav-menu-container -->
+      </nav>
     </div>
   </header><!-- #header -->
 
@@ -165,8 +298,6 @@
   <script src="/lib/touchSwipe/jquery.touchSwipe.min.js"></script>
 
   <!-- Template Main Javascript File -->
-  <script src="/js/main.js"></script>
-
     <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
     @includeWhen($page->production, '_partials.analytics')
     @include('_partials.cms.identity_redirect')

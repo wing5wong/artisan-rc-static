@@ -36,6 +36,51 @@ return [
                 return $page->getFilename();
             },
         ],
+        'slider_images' => [
+            'path' => 'slider_images/{filename}'
+        ],
+        'newsletters' => [
+            'path' => 'newsletters/{-title}',
+            'extends' => '_layouts.newsletter',
+            'sort' => '-date',
+            'section' => 'postContent',
+            'isPost' => true,
+        ],
+        'events' => [
+            'path' => 'events/{-title}',
+            'extends' => '_layouts.events',
+            'sort' => '-date',
+            'section' => 'postContent',
+            'isPost' => true,
+        ],
+        'our_school' => [
+            'path' => 'our-school/{-title}',
+            'extends' => '_layouts.post',
+            'sort' => '-date',
+            'section' => 'postContent',
+            'isPost' => true,
+        ],
+        'curriculum' => [
+            'path' => 'curriculum/{-title}',
+            'extends' => '_layouts.post',
+            'sort' => '-date',
+            'section' => 'postContent',
+            'isPost' => true,
+        ],
+        'enrolment' => [
+            'path' => 'enrolment/{-title}',
+            'extends' => '_layouts.post',
+            'sort' => '-date',
+            'section' => 'postContent',
+            'isPost' => true,
+        ],
+        'international' => [
+            'path' => 'international/{-title}',
+            'extends' => '_layouts.post',
+            'sort' => '-date',
+            'section' => 'postContent',
+            'isPost' => true,
+        ],
     ],
     'excerpt' => function ($page, $limit = 250, $end = '...') {
         return $page->isPost
