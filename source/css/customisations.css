@@ -30,7 +30,7 @@ background: #f0f0f0;
 position:relative;padding-left: 115px
 }
 #header #logo img {
-position: absolute; left:0;top:-32px;
+position: absolute; left:0;top:-32px; height: 113px;
 }
 #header.header-scrolled #logo {
 padding-left: 65px;

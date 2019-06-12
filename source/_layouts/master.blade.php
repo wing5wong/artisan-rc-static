@@ -52,7 +52,7 @@
       <div id="logo" class="pull-left" >
         <h1><a href="/#intro" class="scrollto">Ruapehu College</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
-            <img src="/images/crests/RCLogo.png" alt="Ruapehu College Crest" title="Ruapehu College Crest" style="width: 100px;"/>
+            <img src="/images/crests/RCLogo.png" alt="Ruapehu College Crest" title="Ruapehu College Crest" />
       </div>
 
       <nav id="nav-menu-container">
