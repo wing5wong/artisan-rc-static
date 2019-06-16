@@ -1,5 +1,5 @@
 ---
-title: Principal's Message
+title: "Principal's Message"
 date: 2019-06-04T10:35:31.258Z
 ---
 Kia Ora Koutou.
