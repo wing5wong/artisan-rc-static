@@ -3,32 +3,24 @@
 @section('title', 'Contact')
 
 @section('content')
+<section class="content-section">
+            <div class="container" style="padding-top: 92px">
+                <div class="row">
+                    <div class="col-sm-12">
     <h1>Contact</h1>
+</div>
+</div>
+<div class="row">
+                    <div class="col-sm-12">
+    30 Tainui Street <br>
+    Ohakune<br>
+    New Zealand <br>
+    Phone: 06 385 8398<br>
+    Email: office@ruapehu.school.nz<br>
 
-    <form action="https://jumprock.co/mail/{{ $page->services->jumprock }}" method="post">
-        <div>
-            <label for="name">Name</label><br>
-            <input type="text" name="name" id="name" required>
-        </div>
 
-        <div>
-            <label for="email">Email</label><br>
-            <input type="email" name="email" id="email" required>
-        </div>
-
-        <div>
-            <label for="message">Message</label><br>
-            <textarea name="message" id="message" required></textarea>
-        </div>
-
-        <input name="subject" style="display: none;" value="Blog Contact Page">
-
-        <input type="hidden" name="after" value="{{ $page->production ? $page->baseUrl : 'http://localhost:3000' }}/contact/sent">
-
-        <input type="text" name="trapit" value="" style="display: none;">
-
-        <input type="hidden" name="replyto" value="%email">
-
-        <input type="submit" value="Send">
-    </form>
+                    </div>
+</div>
+            </div>
+</section>
 @endsection

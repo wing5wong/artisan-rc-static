@@ -41,7 +41,7 @@ return [
         ],
         'newsletters' => [
             'path' => 'newsletters/{-title}',
-            'extends' => '_layouts.newsletter',
+            'extends' => '_layouts.post',
             'sort' => '-date',
             'section' => 'postContent',
             'isPost' => true,

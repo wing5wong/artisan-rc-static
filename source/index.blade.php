@@ -5,118 +5,120 @@
 
 <pop:block region="main">
 
-    <pop:content from="home-page-slider">
-        <section id="intro">
-            <div class="intro-container">
-                <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
+  <pop:content from="home-page-slider">
+    <section id="intro">
+      <div class="intro-container">
+        <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
 
-                    <ol class="carousel-indicators"></ol>
+          <ol class="carousel-indicators"></ol>
 
-                    <div class="carousel-inner" role="listbox">
-                        <pop:entries limit="1">
-                            <!--<pop:slides limit="1" resize="fill" width="1920" height="1080">-->
+          <div class="carousel-inner" role="listbox">
+            <pop:entries limit="1">
+              <!--<pop:slides limit="1" resize="fill" width="1920" height="1080">-->
 
-                            <div class="carousel-item active">
-                                <div class="carousel-background">
-                                    <img class="carousel-background" src="<pop:image.src  resize=" fill " width="1920 " height="1080 " />" alt="">
-                                </div>
-                                <div class="carousel-caption d-none d-md-block">
-                                    <pop:title wrap="h5" />
-                                    <pop:body/>
-                                </div>
-
-                            </div>
-                            <!--</pop:slides>-->
-                        </pop:entries>
-                        <pop:entries skip="1">
-                            <!-- <pop:slides skip="1" resize="fill" width="1920" height="1080">-->
-                            <div class="carousel-item">
-                                <div class="carousel-background">
-                                    <img class="carousel-background" src="<pop:image.src  resize=" fill " width="1920 " height="1080 " />" alt="">
-                                </div>
-                                <div class="carousel-caption d-none d-md-block">
-                                    <pop:title wrap="h5" />
-                                    <pop:body/>
-                                </div>
-
-                            </div>
-                            <!--</pop:slides>-->
-                        </pop:entries>
-
-                    </div>
-
-                    <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">
-                        <span class="carousel-control-prev-icon ion-chevron-left" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-
-                    <a class="carousel-control-next" href="#introCarousel" role="button" data-slide="next">
-                        <span class="carousel-control-next-icon ion-chevron-right" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
-
+              <div class="carousel-item active">
+                <div class="carousel-background">
+                  <img class="carousel-background" src="<pop:image.src  resize=" fill " width=" 1920 " height=" 1080 " />" alt="">
                 </div>
-            </div>
-        </section>
-        <!-- #intro -->
-    </pop:content>
+                <div class="carousel-caption d-none d-md-block">
+                  <pop:title wrap="h5" />
+                  <pop:body />
+                </div>
 
-    <pop:content>
-        <main id="main">
+              </div>
+              <!--</pop:slides>-->
+            </pop:entries>
+            <pop:entries skip="1">
+              <!-- <pop:slides skip="1" resize="fill" width="1920" height="1080">-->
+              <div class="carousel-item">
+                <div class="carousel-background">
+                  <img class="carousel-background" src="<pop:image.src  resize=" fill " width=" 1920 " height=" 1080 " />" alt="">
+                </div>
+                <div class="carousel-caption d-none d-md-block">
+                  <pop:title wrap="h5" />
+                  <pop:body />
+                </div>
 
-            <!--==========================
+              </div>
+              <!--</pop:slides>-->
+            </pop:entries>
+
+          </div>
+
+          <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon ion-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+
+          <a class="carousel-control-next" href="#introCarousel" role="button" data-slide="next">
+            <span class="carousel-control-next-icon ion-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+
+        </div>
+      </div>
+    </section>
+    <!-- #intro -->
+  </pop:content>
+
+  <pop:content>
+    <main id="main">
+
+      <!--==========================
       Featured Services Section
     ============================-->
-            <section id="featured-services">
-                <div class="container">
-                    <div class="row">
+      <section id="featured-services">
+        <div class="container">
+          <div class="row">
 
-                        <div class="col-lg-4 box">
-                            <i class="ion-ios-bookmarks-outline"></i>
-                            <h4 class="title"><a href="/news">News</a></h4>
-                            <p class="description">All the latest stories about Ruapehu College</p>
-                        </div>
+            <div class="col-lg-4 box">
+              <i class="ion-ios-bookmarks-outline"></i>
+              <h4 class="title"><a href="/news">News</a></h4>
+              <p class="description">All the latest stories about Ruapehu College</p>
+            </div>
 
-                        <div class="col-lg-4 box box-bg">
-                            <i class="ion-ios-stopwatch-outline"></i>
-                            <h4 class="title"><a href="/news/upcoming-events">Events</a></h4>
-                            <p class="description">Whats coming up at Ruapehu College</p>
-                        </div>
+            <div class="col-lg-4 box box-bg">
+              <i class="ion-ios-stopwatch-outline"></i>
+              <h4 class="title"><a href="/news/upcoming-events">Events</a></h4>
+              <p class="description">Whats coming up at Ruapehu College</p>
+            </div>
 
-                        <div class="col-lg-4 box">
-                            <i class="ion-ios-heart-outline"></i>
-                            <h4 class="title"><a href="/curriculum">Curriculum</a></h4>
-                            <p class="description">What can I study at Ruapehu College</p>
-                        </div>
+            <div class="col-lg-4 box">
+              <i class="ion-ios-heart-outline"></i>
+              <h4 class="title"><a href="/curriculum">Curriculum</a></h4>
+              <p class="description">What can I study at Ruapehu College</p>
+            </div>
 
-                    </div>
-                </div>
-            </section>
-            <!-- #featured-services -->
+          </div>
+        </div>
+      </section>
+      <!-- #featured-services -->
 
-            <section id="nisssb-nisssc">
-                <div class="row no-gutters text-center">
+      <section id="nisssb-nisssc">
+        <div class="row no-gutters text-center">
 
-                    <div class="col-lg-6 p-5">
-                        <pop:content from="nisssb-4">
-                            <h4 class="title"><a href="<pop:permalink />"><pop:title /></a></h4>
-                            <pop:body />
-                            <a href="<pop:permalink />" class="btn btn-outline-primary">More Information</a>
-                        </pop:content>
-                    </div>
+          <div class="col-lg-6 p-5">
 
-                    <div class="col-lg-6 p-5 bg-primary text-white">
-                        <pop:content from="nisssc-2">
-                            <h4 class="title"><a href="<pop:permalink />" class=" text-white"><pop:title /></a></h4>
-                            <pop:body />
-                            <a href="<pop:permalink />" class="btn btn-outline-light">More Information</a>
-                        </pop:content>
-                    </div>
+            <h4 class="title"><a href="/curriculum/sport/nisssb">NISSSB</a></h4>
+            <p><span>The events are organised The Laurenson Trust and he held on the Turoa Ski Field. Please contact John Laurenson at&nbsp;</span><a href="mailto:johnlaurenson57@gmail.com" target="_blank">johnlaurenson57@gmail.com</a><span>&nbsp;if you require any information.&nbsp;</span></p>
+            <p><span>Date:&nbsp;<span>&nbsp;Sept 23 - 25 2019</span></span></p>
+            <a href="/curriculum/sport/nisssb" class="btn btn-outline-primary">More Information</a>
 
-                </div>
-            </section>
+          </div>
 
-            <!--==========================
+          <div class="col-lg-6 p-5 bg-primary text-white">
+
+            <h4 class="title"><a href="/curriculum/sport/nisssc-2" class=" text-white">NISSSC</a></h4>
+            <p><span>The events are organised by The Laurenson Trust and held on the Whakapapa Ski Field. Please contact John Laurenson at&nbsp;</span><a href="mailto:johnlaurenson57@gmail.com" target="_blank">johnlaurenson57@gmail.com</a><span>&nbsp;if you require any information.&nbsp;</span></p>
+            <p><span>Date:&nbsp;<span>Sept 16-18 2019</span></span></p>
+            <a href="/curriculum/sport/nisssc-2" class="btn btn-outline-light">More Information</a>
+
+          </div>
+
+        </div>
+      </section>
+
+      <!--==========================
       About Us Section
     ============================
     <section id="about">
@@ -173,7 +175,7 @@
       </div>
     </section><!-- #about -->
 
-            <!--==========================
+      <!--==========================
       Services Section
     ============================
     <section id="services">
@@ -222,24 +224,24 @@
       </div>
     </section><!-- #services -->
 
-            <!--==========================
+      <!--==========================
       Call To Action Section
     ============================-->
-            <section id="call-to-action" class="wow fadeIn">
-                <div class="container text-center">
-                    <pop:cta_title wrap="h3" />
-                    <pop:cta wrap="p"></pop:cta>
-                    <a class="cta-btn" href="<pop:cta_link/>">
-                        <pop:cta_link_text />
-                    </a>
-                </div>
-            </section>
-            <!-- #call-to-action -->
+      <section id="call-to-action" class="wow fadeIn">
+        <div class="container text-center">
+          <h3>Enrolments are open! </h3>
+          <p>Rapuhia Kōte Mātauranga : Seek Further Knowledge</p>
+          <a class="cta-btn" href="/enrolments">
+            Enrol Today!
+          </a>
+        </div>
+      </section>
+      <!-- #call-to-action -->
 
-            <!--==========================
+      <!--==========================
       Skills Section
     ============================-->
-            <!--
+      <!--
 <section id="skills">
       <div class="container">
 
@@ -280,7 +282,7 @@
     </section>
 -->
 
-            <!--==========================
+      <!--==========================
       Facts Section
     ============================
     <section id="facts"  class="wow fadeIn">
@@ -322,7 +324,7 @@
       </div>
     </section><!-- #facts -->
 
-            <!--==========================
+      <!--==========================
       Portfolio Section
     ============================
     <section id="portfolio"  class="section-bg" >
@@ -485,7 +487,7 @@
       </div>
     </section><!-- #portfolio -->
 
-            <!--==========================
+      <!--==========================
       Clients Section
     ============================
     <section id="clients" class="wow fadeInUp">
@@ -509,7 +511,7 @@
       </div>
     </section><!-- #clients -->
 
-            <!--==========================
+      <!--==========================
       Clients Section
     ============================
     <section id="testimonials" class="section-bg wow fadeInUp">
@@ -581,7 +583,7 @@
       </div>
     </section><!-- #testimonials -->
 
-            <!--==========================
+      <!--==========================
       Team Section
     ============================
     <section id="team">
@@ -670,53 +672,51 @@
       </div>
     </section><!-- #team -->
 
-            <!--==========================
+      <!--==========================
       Contact Section
     ============================-->
-            <section id="contact" class="section-bg wow fadeInUp">
-                <div class="container">
+      <section id="contact" class="section-bg wow fadeInUp">
+        <div class="container">
 
-                    <div class="section-header">
-                        <pop:content>
-                            <pop:contact_section_title wrap="h3" />
-                            <pop:content_section_text wrap="p" />
-                        </pop:content>
-                    </div>
+          <div class="section-header">
+            <h3>Contact Us</h3>
+            <p>We are happy to answer your questions!</p>
+          </div>
 
-                    <div class="row contact-info">
+          <div class="row contact-info">
 
-                        <div class="col-md-4">
-                            <div class="contact-address">
-                                <i class="ion-ios-location-outline"></i>
-                                <h3>Address</h3>
-                                <address>30 Tainui Street, Ohakune, NZ</address>
-                            </div>
-                        </div>
+            <div class="col-md-4">
+              <div class="contact-address">
+                <i class="ion-ios-location-outline"></i>
+                <h3>Address</h3>
+                <address>30 Tainui Street, Ohakune, NZ</address>
+              </div>
+            </div>
 
-                        <div class="col-md-4">
-                            <div class="contact-phone">
-                                <i class="ion-ios-telephone-outline"></i>
-                                <h3>Phone Number</h3>
-                                <p><a href="tel:+64-6-385-8398">06 385 8398</a></p>
-                            </div>
-                        </div>
+            <div class="col-md-4">
+              <div class="contact-phone">
+                <i class="ion-ios-telephone-outline"></i>
+                <h3>Phone Number</h3>
+                <p><a href="tel:+64-6-385-8398">06 385 8398</a></p>
+              </div>
+            </div>
 
-                        <div class="col-md-4">
-                            <div class="contact-email">
-                                <i class="ion-ios-email-outline"></i>
-                                <h3>Email</h3>
-                                <p><a href="mailto:office@ruapehu.school.nz">office@ruapehu.school.nz</a></p>
-                            </div>
-                        </div>
+            <div class="col-md-4">
+              <div class="contact-email">
+                <i class="ion-ios-email-outline"></i>
+                <h3>Email</h3>
+                <p><a href="mailto:office@ruapehu.school.nz">office@ruapehu.school.nz</a></p>
+              </div>
+            </div>
 
-                    </div>
+          </div>
 
-                </div>
-            </section>
-            <!-- #contact -->
+        </div>
+      </section>
+      <!-- #contact -->
 
-        </main>
+    </main>
 
-    </pop:content>
+  </pop:content>
 </pop:block>
 @endsection

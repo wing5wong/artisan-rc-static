@@ -9,3 +9,7 @@ Parents can notify non-attendance at school via 3 channels:
 2. Facebook page - Ruapehu College
 
 3. Email - office@ruapehu.school.nz
+
+
+![](http://c1940652.r52.cf0.rackcdn.com/5c8ac91eff2a7c25ea00047a/Attendance-codes-1.jpg)
+![](http://c1940652.r52.cf0.rackcdn.com/5c8ac91eff2a7c25ea00047b/Attendance-codes-2.jpg)
