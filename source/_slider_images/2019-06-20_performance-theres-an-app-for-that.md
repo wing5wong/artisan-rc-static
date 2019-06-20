@@ -5,3 +5,4 @@ image: >-
   https://res.cloudinary.com/ruapehu-college/image/upload/v1561016362/DSC01464_kznbrz.jpg
 ---
 
+What a great performance!
