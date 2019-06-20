@@ -13,36 +13,21 @@
           <ol class="carousel-indicators"></ol>
 
           <div class="carousel-inner" role="listbox">
-            <pop:entries limit="1">
+            @foreach($slider_images as $si)
               <!--<pop:slides limit="1" resize="fill" width="1920" height="1080">-->
 
               <div class="carousel-item active">
                 <div class="carousel-background">
-                  <img class="carousel-background" src="<pop:image.src  resize=" fill " width=" 1920 " height=" 1080 " />" alt="">
+                  <img class="carousel-background" style="width:1920px; height: 1080px;" src="{{$si->image}}" alt="">
                 </div>
                 <div class="carousel-caption d-none d-md-block">
-                  <pop:title wrap="h5" />
-                  <pop:body />
+                  <h5>{{$si->title}}</h5>
+                  {{ $si->body }}
                 </div>
 
               </div>
               <!--</pop:slides>-->
-            </pop:entries>
-            <pop:entries skip="1">
-              <!-- <pop:slides skip="1" resize="fill" width="1920" height="1080">-->
-              <div class="carousel-item">
-                <div class="carousel-background">
-                  <img class="carousel-background" src="<pop:image.src  resize=" fill " width=" 1920 " height=" 1080 " />" alt="">
-                </div>
-                <div class="carousel-caption d-none d-md-block">
-                  <pop:title wrap="h5" />
-                  <pop:body />
-                </div>
-
-              </div>
-              <!--</pop:slides>-->
-            </pop:entries>
-
+            @endforeach
           </div>
 
           <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">
