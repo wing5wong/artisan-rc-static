@@ -1,11 +1,8 @@
 @extends('_layouts.master')
 
 @section('content')
-<pop:layout name="default" />
 
-<pop:block region="main">
 
-  <pop:content from="home-page-slider">
     <section id="intro">
       <div class="intro-container">
         <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
@@ -14,7 +11,6 @@
 
           <div class="carousel-inner" role="listbox">
             @foreach($slider_images as $si)
-              <!--<pop:slides limit="1" resize="fill" width="1920" height="1080">-->
 
               <div class="carousel-item active">
                 <div class="carousel-background">
@@ -22,11 +18,10 @@
                 </div>
                 <div class="carousel-caption d-none d-md-block">
                   <h5>{{$si->title}}</h5>
-                  {{ $si->body }}
+                  {{ $si }}
                 </div>
 
               </div>
-              <!--</pop:slides>-->
             @endforeach
           </div>
 
@@ -44,9 +39,6 @@
       </div>
     </section>
     <!-- #intro -->
-  </pop:content>
-
-  <pop:content>
     <main id="main">
 
       <!--==========================
@@ -701,7 +693,4 @@
       <!-- #contact -->
 
     </main>
-
-  </pop:content>
-</pop:block>
 @endsection
