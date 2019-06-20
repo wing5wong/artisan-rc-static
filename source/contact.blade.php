@@ -7,9 +7,9 @@
             <div class="container" style="padding-top: 92px">
                 <div class="row">
                     <div class="col-sm-12">
-    <h1>Contact</h1>
+    <h1>Contact Us</h1>
 </div>
-</div>
+</div>con
 <div class="row">
                     <div class="col-sm-12">
     30 Tainui Street <br>
