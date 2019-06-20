@@ -18,7 +18,7 @@
                 </div>
                 <div class="carousel-caption d-none d-md-block">
                   <h5>{{$si->title}}</h5>
-                  {{ $si }}
+                  {!! $si !!}
                 </div>
 
               </div>
