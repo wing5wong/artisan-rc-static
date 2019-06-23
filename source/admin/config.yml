@@ -153,6 +153,7 @@ collections:
       searchFields: ["title"]
       valueField: "title"
       displayFields: ["title"]
+      multiple: true
     - {label: "Description", name: "description", widget: "text"}
     - {label: "Level", name: level, widget: number, default: "0"}
     - {label: "Credits", name: credits, widget: number, default: "0"}
