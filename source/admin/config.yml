@@ -108,3 +108,44 @@ collections:
     - {label: "Image Filename", name: "image", widget: "image", required: false}
     - {label: "Body", name: "body", widget: "markdown"}
     - {label: "Tags", name: "tags", widget: "list", required: false}
+
+  - name: "subjects"
+    label: "Subjects"
+    label_singular: Subject
+    folder: "source/_subjects"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    fields:
+    - {label: "Title", name: "title", widget: "string", default: "Title"}
+
+  - name: "courses"
+    label: "Courses"
+    label_singular: Course
+    folder: "source/_courses"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    fields:
+    - {label: "Title", name: "title", widget: "string", default: "Title"}
+    - label: "Subject"
+      name: "subject"
+      widget: "relation"
+      collection: "subjects"
+      searchFields: ["title"]
+      valueField: "title"
+      displayFields: ["title"]
+
+  - name: "assessments"
+    label: "Assessments"
+    label_singular: Assessment
+    folder: "source/_assessments"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    fields:
+    - {label: "Title", name: "title", widget: "string", default: "Title"}
+    - label: "Course"
+      name: "course"
+      widget: "relation"
+      collection: "courses"
+      searchFields: ["title"]
+      valueField: "title"
+      displayFields: ["title"]
