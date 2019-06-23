@@ -126,6 +126,10 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:
     - {label: "Title", name: "title", widget: "string", default: "Title"}
+    - {label: "Year", name: "year", widget: "number"}
+    - {label: "Course Level", name: "level", widget: "select", options: ['Year 9', 'Year 10','NCEA 1','NCEA 2','NCEA 3','NCEA 1 and 2', 'NCEA 2 and 3', 'NCEA 1,2 and 3']}
+    - {label: "Assessment Type", name: "assessment", widget: "select", options: ['Achievement Standard', 'Unit Standard','Achievement Standard and Unit Standard']}
+    - {label: "Fees", name: "fees", widget: "string", default: "N/A"}
     - label: "Subject"
       name: "subject"
       widget: "relation"
@@ -149,3 +153,25 @@ collections:
       searchFields: ["title"]
       valueField: "title"
       displayFields: ["title"]
+
+  - name: "sports"
+    label: "Sports"
+    label_singular: Sport
+    folder: "source/_sports"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    fields:
+    - {label: "Title", name: "title", widget: "string", default: "Title"}
+    - {label: "Image", name: "image", widget: "image", required: false}
+    - {label: "Body", name: "body", widget: "text", required: false}
+    
+  - name: "cultural"
+    label: "Cultural"
+    label_singular: Cultural
+    folder: "source/_cultural"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    fields:
+    - {label: "Title", name: "title", widget: "string", default: "Title"}
+    - {label: "Image", name: "image", widget: "image", required: false}
+    - {label: "Body", name: "body", widget: "text", required: false}
