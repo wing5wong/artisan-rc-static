@@ -12,7 +12,7 @@
           <div class="carousel-inner" role="listbox">
             @foreach($slider_images as $si)
 
-              <div class="carousel-item @if($loop->first)active@endif">
+              <div class="carousel-item @if($loop->first)active @endif">
                 <div class="carousel-background">
                   <img class="carousel-background" style="width:1920px; height: 1080px;" src="{{$si->image}}" alt="">
                 </div>
