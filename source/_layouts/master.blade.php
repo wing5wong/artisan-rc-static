@@ -102,7 +102,7 @@
                                 <a href="news/upcoming-events">Events</a>
                             </li>
                             <li>
-                                <a href="https://kamar.ruapehu.school.nz/">Calendar</a>
+                                <a href="https://kamar.ruapehu.school.nz/index.php/calendar">Calendar</a>
                             </li>
                         </ul>
                     </li>
