@@ -748,7 +748,7 @@ body {
   /* Call To Action Section
   --------------------------------*/
   #call-to-action {
-    background: linear-gradient(rgba(46,87,142,.6), rgba(0, 0, 0, 0.1)), url("../images/bg-body.jpg") fixed center center;
+    background: linear-gradient(rgba(46,87,142,.6), rgba(0, 0, 0, 0.1)), url("https://res.cloudinary.com/ruapehu-college/image/upload/v1565267469/website/bg-body_v3wc4x.jpg") fixed center center;
     background-size: cover;
     padding: 60px 0;
   }
