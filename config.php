@@ -68,7 +68,7 @@ return [
             'isPost' => true,
         ],
         'enrolment' => [
-            'path' => 'enrolments/{-title}',
+            'path' => 'enrolment/{-title}',
             'extends' => '_layouts.post',
             'sort' => '-date',
             'section' => 'postContent',
