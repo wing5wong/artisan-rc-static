@@ -107,7 +107,7 @@ jQuery(document).ready(function( $ ) {
   
           if ($(this).parents('.nav-menu').length) {
             $('.nav-menu .menu-active').removeClass('menu-active');
-           // $(this).closest('li').addClass('menu-active');
+            $(this).closest('li').addClass('menu-active');
           }
   
           if ($('body').hasClass('mobile-nav-active')) {
