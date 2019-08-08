@@ -110,6 +110,7 @@ jQuery(document).ready(function( $ ) {
             $(this).closest('li').addClass('menu-active');
           }
   
+          
           if ($('body').hasClass('mobile-nav-active')) {
             $('body').removeClass('mobile-nav-active');
             $('#mobile-nav-toggle i').toggleClass('fa-times fa-bars');
