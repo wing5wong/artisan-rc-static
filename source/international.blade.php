@@ -5,10 +5,21 @@
     <div class="container" style="padding-top: 92px">
         <div class="row">
             <div class="col-sm-12">
-@foreach($international as $i)
-<a href="{{$i->getPath()}}">{{$i->title}}</a>
-@endforeach
+                <h1>
+                   International
+                </h1>
             </div>
-        </div></div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="list-group">
+                @foreach($international as $s)
+                <a href="{{$s->getPath()}}" class="list-group-item list-group-item-action">{{$s->title}}</a>
+                @endforeach
+                </div>
+                
+            </div>
+        </div>
+    </div>
 </section>
 @endsection
