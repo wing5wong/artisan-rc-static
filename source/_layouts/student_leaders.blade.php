@@ -20,7 +20,7 @@
             <div class="col">
                 @yield('postContent')
 
-                @foreach($student_leaders->groupBy('department') as $group=>$members)
+                @foreach($student_leaders->groupBy('position') as $group=>$members)
                     <h2>{{ $group }}</h2>
                     <ul>
                     @foreach($members as $student)
