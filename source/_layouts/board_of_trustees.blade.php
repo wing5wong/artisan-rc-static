@@ -20,10 +20,13 @@
             <div class="col">
                 @yield('postContent')
 
-                @foreach($board_of_trustees->groupBy('responsibilities') as $group=>$members)
-                    <h2>{{ $group }}</h2>
+
+                @foreach(["Principal","Chairperson","Finance", "Health and Safety", "Discipline", "Property","Staff Representative", "Student Representative","Iwi Representative","Secretary","Board of Trustees"] as $group)
+                <h2>{{ $group }}</h2>
                     <ul>
-                    @foreach($members as $bot)
+                    @foreach($board_of_trustees->filter(function($b) use ($group){
+                        return in_array($b->responsibilities, $group)
+                    }) as $bot)
                         <li>
                             {{ $bot->title }}
                         </li>
@@ -34,6 +37,7 @@
                     @endif
                 @endforeach
 
+                    
                 @if($page->date) 
                 <p>
                     <strong>Updated {{ date('F j, Y', $page->date) }}</strong><br>
