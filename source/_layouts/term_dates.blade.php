@@ -22,11 +22,18 @@
 
                 @foreach($term_dates as $dates)
                 <h2>{{ $dates->title }}</h2>
-                <table>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Event</th>
+                            <th>Start Date</th>
+                            <th>End Date</th>
+                        </tr>
+                    </thead>
                     @foreach($dates->dates as $date)
                     <tr>
                         <td>
-                            {{ $date->title }}
+                            {{ $date["title"] }}
                         </td>
                         <td>{{ date('F j, Y', $date["start_date"]) }}</td>
                         <td>{{ date('F j, Y', $date["end_date"]) }}</td>

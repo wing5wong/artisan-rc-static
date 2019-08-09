@@ -96,10 +96,10 @@
                         <a href="/news" class="sf-with-ul">News</a>
                         <ul>
                             <li>
-                                <a href="news/newsletters">Newsletters</a>
+                                <a href="/news/newsletters">Newsletters</a>
                             </li>
                             <li>
-                                <a href="news/upcoming-events">Events</a>
+                                <a href="/news/upcoming-events">Events</a>
                             </li>
                             <li>
                                 <a href="https://kamar.ruapehu.school.nz/index.php/calendar">Calendar</a>
