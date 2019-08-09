@@ -55,6 +55,7 @@ return [
         ],
         'staff',
         'student_leaders',
+        "board_of_trustees",
         'our_school' => [
             'path' => 'our-school/{-title}',
             'extends' => '_layouts.post',

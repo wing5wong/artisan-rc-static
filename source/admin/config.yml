@@ -70,7 +70,7 @@ collections:
         - label: Department
           name: department
           widget: select
-          options: ["Principal","deputy Principal","Teaching Staff", "Support Staff", "Administration Staff"]
+          options: ["Principal","Deputy Principal","Teaching Staff", "Support Staff", "Administration Staff"]
 
   - name: "student_leaders"
     label: "Student Leaders"
@@ -84,7 +84,20 @@ collections:
           name: position
           widget: select
           options: ["Head Boy", "Head Girl", "Deputy Head Boy", "Deputy Head Girl"]
-
+  
+  - name: "board_of_trustees"
+    label: "Board Members"
+    folder: "source/_board_of_trustees"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    fields:
+        - {label: "Title", name: "title", widget: "string", hint: "e.g. Kim Basse, Mr S. Mackrell, Mrs Marama Allen"}
+        - {label: "Email", name: "email", widget: "string", required: false}
+        - {label: "Date", name: "date", widget: "date"}
+        - label: Responsibilities
+          name: responsibilities
+          widget: select
+          options: ["Principal","Chairperson","Finance", "Health and Safety", "Discipline", "Property","Staff Representative", "Student Representative","Iwi Representative","Secretary","Board of Trustees"]
 
   - name: "our_School"
     label: "Our School Pages"
