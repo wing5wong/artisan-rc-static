@@ -142,6 +142,20 @@ collections:
     - {label: "Body", name: "body", widget: "markdown"}
     - {label: "Tags", name: "tags", widget: "list", required: false}
 
+  - name: "news"
+    label: "News Pages"
+    label_singular: News Page
+    folder: "source/_news"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    fields:
+    - {label: "Extends", name: "extends", widget: "hidden", default: "_layouts.post"}  
+    - {label: "Title", name: "title", widget: "string", default: "Title"}
+    - {label: "Date", name: "date", widget: "date"}
+    - {label: "Image Filename", name: "image", widget: "image", required: false}
+    - {label: "Body", name: "body", widget: "markdown"}
+    - {label: "Tags", name: "tags", widget: "list", required: false}
+
   - name: "enrolment"
     label: "Enrolment Pages"
     label_singular: Enrolment Page

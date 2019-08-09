@@ -71,6 +71,13 @@ return [
             'section' => 'postContent',
             'isPost' => true,
         ],
+        'news' => [
+            'path' => 'news/{-title}',
+            'extends' => '_layouts.post',
+            'sort' => '-date',
+            'section' => 'postContent',
+            'isPost' => true,
+        ],
         'enrolment' => [
             'path' => 'enrolment/{-title}',
             'extends' => '_layouts.post',
