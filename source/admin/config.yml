@@ -72,6 +72,19 @@ collections:
           widget: select
           options: ["Principal","deputy Principal","Teaching Staff", "Support Staff", "Administration Staff"]
 
+  - name: "student_leaders"
+    label: "Student Leaders"
+    folder: "source/_student_leaders"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    fields:
+        - {label: "Title", name: "title", widget: "string", hint: "e.g. Kim Basse, Mr S. Mackrell, Mrs Marama Allen"}
+        - {label: "Date", name: "date", widget: "date"}
+        - label: Position
+          name: position
+          widget: select
+          options: ["Head Boy", "Head Girl", "Deputy Head Boy", "Deputy Head Girl"]
+
 
   - name: "our_School"
     label: "Our School Pages"

@@ -53,10 +53,8 @@ return [
             'section' => 'postContent',
             'isPost' => true,
         ],
-        'staff' => [
-            'extends' => '_layouts.post',
-            'sort' => '-date',
-        ],
+        'staff',
+        'student_leaders',
         'our_school' => [
             'path' => 'our-school/{-title}',
             'extends' => '_layouts.post',

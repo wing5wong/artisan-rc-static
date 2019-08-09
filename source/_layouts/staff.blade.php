@@ -20,17 +20,26 @@
             <div class="col">
                 @yield('postContent')
 
-                @foreach($staff->groupBy('department') as $deptGroup)
+                @foreach($staff->groupBy('department') as $deptGroup=>$members)
                     <h2>{{ $deptGroup }}</h2>
                     <ul>
-                    @foreach($deptGroup as $staff)
+                    @foreach($members as $staff)
                         <li>
                             {{ $staff->title }}
+
+                            @if($staff->roles)
                             - {{ $staff->roles }}
+                            @endif
+
+                            @if($staff->email)
                             - {{ $staff->email }}
+                            @endif
                         </li>
                     @endforeach
                     </ul>
+                    @if(!$loop->last)
+                        <hr>
+                    @endif
                 @endforeach
 
                 @if($page->date) 
