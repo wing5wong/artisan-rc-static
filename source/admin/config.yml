@@ -99,6 +99,21 @@ collections:
           widget: select
           options: ["Principal","Chairperson","Finance", "Health and Safety", "Discipline", "Property","Staff Representative", "Student Representative","Iwi Representative","Secretary","Board of Trustees"]
 
+  - name: "term_dates"
+    label: "Term Dates"
+    folder: "source/_term_dates"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string", hint: "e.g. Term Dates, Public Holidays", default: "Term X"}
+      - label: Dates
+        name: dates
+        widget: list
+        fields:
+          - {label: "title", name: "title", widget: "string"}
+          - {label: "Start Date", name: "start_date", widget: "date"}
+          - {label: "End Date", name: "end_date", widget: "date"}
+
   - name: "our_School"
     label: "Our School Pages"
     label_singular: Our School Page
