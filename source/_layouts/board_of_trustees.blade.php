@@ -25,7 +25,7 @@
                 <h2>{{ $group }}</h2>
                     <ul>
                     @foreach($board_of_trustees->filter(function($b) use ($group){
-                        return in_array($b->responsibilities, $group)
+                        return in_array($group,$b->responsibilities);
                     }) as $bot)
                         <li>
                             {{ $bot->title }}
