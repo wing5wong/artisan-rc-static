@@ -57,6 +57,22 @@ collections:
     - {label: "Body", name: "body", widget: "markdown"}
     - {label: "Tags", name: "tags", widget: "list", required: false}
 
+  - name: "staff"
+    label: "Staff"
+    folder: "source/_staff"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    fields:
+        - {label: "Title", name: "title", widget: "string", hint: "e.g. Kim Basse, Mr S. Mackrell, Mrs Marama Allen"}
+        - {label: "Email", name: "email", widget: "string", required: false}
+        - {label: "Date", name: "date", widget: "date"}
+        - {label: "Roles", name: "roles", widget: "string", hint: "e.g.  HOD visual Arts", required: false}
+        - label: Department
+          name: department
+          widget: select
+          options: ["Principal","deputy Principal","Teaching Staff", "Support Staff", "Administration Staff"]
+
+
   - name: "our_School"
     label: "Our School Pages"
     label_singular: Our School Page
