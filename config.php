@@ -57,6 +57,21 @@ return [
         'student_leaders',
         "board_of_trustees",
         "term_dates",
+        'cultural',
+        'cocurricular' => [
+            'path' => 'curriculum/cocurricular/{-title}',
+            'extends' => '_layouts.post',
+            'sort' => '-date',
+            'section' => 'postContent',
+            'isPost' => true,
+        ],
+        'sports' => [
+            'path' => 'curriculum/sport/{-title}',
+            'extends' => '_layouts.post',
+            'sort' => '-date',
+            'section' => 'postContent',
+            'isPost' => true,
+        ],
         'our_school' => [
             'path' => 'our-school/{-title}',
             'extends' => '_layouts.post',

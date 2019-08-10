@@ -19,15 +19,15 @@
             @endif
             <div class="col">
                 @yield('postContent')
-                <table class="table">
-                    @foreach($events as $e)
-                    <tr>
-                        <td>{{ date('F j, Y', $e->date) }}</td>
-                        <td><a href="{{ $e->getPath() }}">{{ $e->title }}</a></td>
-                    </tr>
-                    @endforeach
-                </table>
-                @if($page->date)
+
+                <div class="list-group">
+                @foreach($sports as $sport)
+                    <a href="{{$sport->getPath()}}" class="list-group-item list-group-item-action">{{ $sport->title}}</a>
+                @endforeach
+                </div>
+
+
+                @if($page->date) 
                 <p>
                     <strong>Updated {{ date('F j, Y', $page->date) }}</strong><br>
                     <!-- @foreach ($page->tags as $tag)

@@ -53,9 +53,21 @@ collections:
     - {label: "Title", name: "title", widget: "string", default: "Title"}
     - {label: "Date", name: "date", widget: "date"}
     - {label: "Image Filename", name: "image", widget: "image", required: false}
-    - {label: "Short Intro", name: "short", widget: "text", default: "One paragraph article intro"}
     - {label: "Body", name: "body", widget: "markdown"}
     - {label: "Tags", name: "tags", widget: "list", required: false}
+
+
+  - name: "cocurricular"
+    label: "Co-Curricular"
+    folder: "source/_curriculum/cocurricular"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    fields:
+    - {label: "Title", name: "title", widget: "string", default: "Title"}
+    - {label: "Date", name: "date", widget: "date"}
+    - {label: "Body", name: "body", widget: "markdown"}
+
+
 
   - name: "staff"
     label: "Staff"
@@ -136,6 +148,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:
+    - {label: "Extends", name: "extends", widget: "hidden", default: "_layouts.post"}  
     - {label: "Title", name: "title", widget: "string", default: "Title"}
     - {label: "Date", name: "date", widget: "date"}
     - {label: "Image Filename", name: "image", widget: "image", required: false}
