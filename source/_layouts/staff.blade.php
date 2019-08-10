@@ -22,23 +22,23 @@
 
                 @foreach(["Principal", "Deputy Principal", "Teaching Staff", "Support Staff", "Administration Staff"] as $group)
                 <h2>{{ $group }}</h2>
-                <ul class="list-group list-group-flush mb-5">
+                <table class="table mb-5">
                     @foreach($staff->filter(function($s) use ($group){
                     return in_array($group, $s->departments);
                     }) as $member)
-                    <li class="list-group-item">
-                        {{ $member->title }}
+                    <tr>
+                        <td>{{ $member->title }}</td>
 
                         @if($member->roles)
-                        - {{ $member->roles }}
+                        <td>{{ $member->roles }}</td>
                         @endif
 
                         @if($member->email)
-                        - {{ $member->email }}
+                        <td>{{ $member->email }}</td>
                         @endif
-                    </li>
+                </tr>
                     @endforeach
-                </ul>
+                </table>
                 @endforeach
 
 
