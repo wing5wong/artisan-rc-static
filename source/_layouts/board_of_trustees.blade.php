@@ -21,7 +21,7 @@
                 @yield('postContent')
 
 
-                @foreach(["Principal","Chairperson","Finance", "Health and Safety", "Discipline", "Property","Staff Representative", "Student Representative","Iwi Representative","Secretary","Board of Trustees"] as $group)
+                @foreach(["Principal","Chairperson","Finance", "Health and Safety", "Discipline", "Property","Staff Representative", "Student Representative","Iwi Representative","Secretary","Member"] as $group)
                 <h2>{{ $group }}</h2>
                     <ul>
                     @foreach($board_of_trustees->filter(function($b) use ($group){
