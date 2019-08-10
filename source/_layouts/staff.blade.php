@@ -20,29 +20,29 @@
             <div class="col">
                 @yield('postContent')
 
-                @foreach($staff->groupBy('department') as $deptGroup=>$members)
-                    <h2>{{ $deptGroup }}</h2>
-                    <ul>
-                    @foreach($members as $staff)
-                        <li>
-                            {{ $staff->title }}
+                @foreach(["Principal", "Deputy Principal", "Teaching Staff", "Support Staff", "Administration Staff"] as $group)
+                <h2>{{ $group }}</h2>
+                <ul class="list-group list-group-flush mb-5">
+                    @foreach($staff->filter(function($s) use ($group){
+                    return in_array($group, $s->departments);
+                    }) as $member)
+                    <li class="list-group-item">
+                        {{ $member->title }}
 
-                            @if($staff->roles)
-                            - {{ $staff->roles }}
-                            @endif
+                        @if($member->roles)
+                        - {{ $member->roles }}
+                        @endif
 
-                            @if($staff->email)
-                            - {{ $staff->email }}
-                            @endif
-                        </li>
+                        @if($member->email)
+                        - {{ $member->email }}
+                        @endif
+                    </li>
                     @endforeach
-                    </ul>
-                    @if(!$loop->last)
-                        <hr>
-                    @endif
+                </ul>
                 @endforeach
 
-                @if($page->date) 
+
+                @if($page->date)
                 <p>
                     <strong>Updated {{ date('F j, Y', $page->date) }}</strong><br>
                     <!-- @foreach ($page->tags as $tag)
