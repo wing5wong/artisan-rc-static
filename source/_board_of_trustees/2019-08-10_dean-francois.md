@@ -5,6 +5,5 @@ responsibilities:
   - Chairperson
   - Finance
   - Property
-  - Board of Trustees
+  Member
 ---
-

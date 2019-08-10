@@ -110,7 +110,7 @@ collections:
           name: responsibilities
           widget: select
           multiple: true
-          options: ["Principal","Chairperson","Finance", "Health and Safety", "Discipline", "Property","Staff Representative", "Student Representative","Iwi Representative","Secretary","Board of Trustees"]
+          options: ["Principal","Chairperson","Finance", "Health and Safety", "Discipline", "Property","Staff Representative", "Student Representative","Iwi Representative","Secretary","Member"]
 
   - name: "term_dates"
     label: "Term Dates"
