@@ -25,6 +25,7 @@ The year 9 programme of study at Ruapehu College is split between the core subje
 * Outdoor education
 
 
+---
 
 # Year 10 Curriculum
 
