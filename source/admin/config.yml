@@ -79,9 +79,10 @@ collections:
         - {label: "Email", name: "email", widget: "string", required: false}
         - {label: "Date", name: "date", widget: "date"}
         - {label: "Roles", name: "roles", widget: "string", hint: "e.g.  HOD visual Arts", required: false}
-        - label: Department
-          name: department
+        - label: Departments
+          name: departments
           widget: select
+          multiple: true
           options: ["Principal","Deputy Principal","Teaching Staff", "Support Staff", "Administration Staff"]
 
   - name: "student_leaders"
