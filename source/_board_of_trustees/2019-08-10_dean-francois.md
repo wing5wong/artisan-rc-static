@@ -5,5 +5,6 @@ responsibilities:
   - Chairperson
   - Finance
   - Property
-  Member
+  - Member
+  - Health and Safety
 ---
