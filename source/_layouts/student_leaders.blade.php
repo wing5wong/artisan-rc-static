@@ -22,9 +22,9 @@
 
                 @foreach($student_leaders->groupBy('position') as $group=>$members)
                     <h2>{{ $group }}</h2>
-                    <ul>
+                    <ul class="list-group list-group-flush">
                     @foreach($members as $student)
-                        <li>
+                        <li class="list-group-item">
                             {{ $student->title }}
                         </li>
                     @endforeach
