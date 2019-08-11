@@ -20,7 +20,7 @@
             <div class="col">
                 @yield('postContent')
 
-                <div class="list-group">
+                <div class="list-group list-group-flush">
                 @foreach($cocurricular as $cc)
                     <a href="{{$cc->getPath()}}" class="list-group-item list-group-item-action">{{ $cc->title}}</a>
                 @endforeach
