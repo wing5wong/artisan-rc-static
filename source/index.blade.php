@@ -85,7 +85,7 @@
 
           <div class="col-lg-6 p-5 bg-primary text-white">
 
-            <h4 class="title"><a href="/curriculum/sport/nisssc-2" class=" text-white">NISSSC</a></h4>
+            <h4 class="title"><a href="/curriculum/sport/nisssc" class=" text-white">NISSSC</a></h4>
             <p><span>The events are organised by The Laurenson Trust and held on the Whakapapa Ski Field. Please contact John Laurenson at&nbsp;</span><a href="mailto:johnlaurenson57@gmail.com" target="_blank">johnlaurenson57@gmail.com</a><span>&nbsp;if you require any information.&nbsp;</span></p>
             <p><span>Date:&nbsp;<span>Sept 16-18 2019</span></span></p>
             <a href="/curriculum/sport/nisssc-2" class="btn btn-outline-light">More Information</a>
