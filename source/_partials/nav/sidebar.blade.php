@@ -5,7 +5,7 @@
     <ul class="list-group list-group-flush">
     @foreach($$col->filter(function($p) use ($page) {
         return $p->getPath() != $page->getPath();
-    }) as $sub)
+    })->sortBy('title') as $sub)
     <a href="{{$sub->getPath()}}" class="list-group-item list-group-item-action">{{$sub->title}}</a>
     @endforeach
     </ul>
