@@ -23,13 +23,13 @@
                 <div class="list-group mb-5">
                     @foreach($departments as $department)
                     <h3>{{ $department->title}}</h3>
-                    <ul class="list-group list-group-flush mb-5">
+                    <ul class="list-group mb-5">
                         @foreach($subjects->filter( function($s) use ($department){
                         return $s->department == $department->title;
                         }) as $subject)
                         <li class="list-group-item">
                             <h4>{{ $subject->title}}</h4>
-                            <ul class="list-group">
+                            <ul class="list-group list-group-flush">
                                 @foreach($courses->filter( function($c) use ($subject){
                                 return $c->subject == $subject->title;
                                 }) as $course)
