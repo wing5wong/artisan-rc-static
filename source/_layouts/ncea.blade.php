@@ -20,24 +20,42 @@
             <div class="col">
                 @yield('postContent')
 
-                <div class="list-group">
-                @foreach($departments as $department)
-                    <a href="{{$department->getPath()}}" class="list-group-item list-group-item-action bg-primary text-white">{{ $department->title}}</a>
+                <div class="list-group mb-5">
+                    @foreach($departments as $department)
+                    <h3>{{ $department->title}}</h3>
                     <ul class="list-group">
-                    @foreach($subjects->filter( function($s) use ($department){
+                        @foreach($subjects->filter( function($s) use ($department){
                         return $s->department == $department->title;
-                    }) as $subject)
-                    <li class="list-group-item">
-                    <a href="{{$subject->getPath()}}" class="">{{ $subject->title}}</a>
-                    </li>
-</ul>
+                        }) as $subject)
+                        <li class="list-group-item">
+                            <h4>{{ $subject->title}}</h4>
+                            <ul class="list-group">
+                                @foreach($courses->filter( function($c) use ($subject){
+                                return $c->subject == $subject->title;
+                                }) as $course)
+                                <li class="list-group-item">
+                                    <a href="{{$course->getPath()}}" class="">{{ $course->title}}</a>
+                                    <!-- <ul class="list-group">
+                                        @foreach($assessments->filter( function($a) use ($course){
+                                        return in_array($course->title, $a->courses ?? []);
+                                        }) as $assessment)
+                                        <li class="list-group-item">
+                                            <a href="{{$assessment->getPath()}}" class="">{{ $assessment->title}}</a>
+                                        </li>
+                                        @endforeach
+                                    </ul> -->
+                                </li>
+                                @endforeach
+                            </ul>
+                        </li>
+                    </ul>
                     @endforeach
                     </ul>
-                @endforeach
+                    @endforeach
                 </div>
 
 
-                @if($page->date) 
+                @if($page->date)
                 <p>
                     <strong>Updated {{ date('F j, Y', $page->date) }}</strong><br>
                     <!-- @foreach ($page->tags as $tag)

@@ -1,4 +1,4 @@
 ---
-title: ' Outdoor Education'
+title: 'Outdoor Education'
 department: Outdoor Education
 ---

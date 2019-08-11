@@ -74,7 +74,13 @@ return [
         ],
         'departments',
         'subjects',
-        'courses',
+        'courses' => [
+            'path' => 'curriculum/ncea/{-title}',
+            'extends' => '_layouts.post',
+            'sort' => '-date',
+            'section' => 'postContent',
+            'isPost' => true,
+        ],
         'assessments',
         'our_school' => [
             'path' => 'our-school/{-title}',

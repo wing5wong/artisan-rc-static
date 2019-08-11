@@ -231,9 +231,11 @@ collections:
     fields:
     - {label: "Title", name: "title", widget: "string", default: "Title"}
     - {label: "Year", name: "year", widget: "number"}
-    - {label: "Course Level", name: "level", widget: "select", options: ['Year 9', 'Year 10','NCEA 1','NCEA 2','NCEA 3','NCEA 1 and 2', 'NCEA 2 and 3', 'NCEA 1,2 and 3']}
-    - {label: "Assessment Type", name: "assessment", widget: "select", options: ['Achievement Standard', 'Unit Standard','Achievement Standard and Unit Standard']}
-    - {label: "Fees", name: "fees", widget: "string", default: "N/A"}
+    - {label: "Description", name: "description", widget: "text", required: false}
+    - {label: "Credits", name: "credits", widget: "string", required: false}
+    - {label: "Course Level", name: "course_level", widget: "select", options: ['Year 9', 'Year 10','NCEA 1','NCEA 2','NCEA 3','NCEA 1 and 2', 'NCEA 2 and 3', 'NCEA 1,2 and 3']}
+    - {label: "Assessment Type", name: "assessment_type", widget: "select", options: ['Achievement Standard', 'Unit Standard','Achievement Standard and Unit Standard']}
+    - {label: "Fees", name: "course_fees", widget: "string", default: "N/A"}
     - label: "Subject"
       name: "subject"
       widget: "relation"
