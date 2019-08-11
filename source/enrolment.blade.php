@@ -12,7 +12,7 @@
         </div>
         <div class="row">
             <div class="col">
-                <div class="list-group">
+                <div class="list-group list-group-flush">
                 @foreach($enrolment as $s)
                 <a href="{{$s->getPath()}}" class="list-group-item list-group-item-action">{{$s->title}}</a>
                 @endforeach
