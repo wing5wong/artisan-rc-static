@@ -29,9 +29,6 @@
                         </li>
                     @endforeach
                     </ul>
-                    @if(!$loop->last)
-                        <hr>
-                    @endif
                 @endforeach
 
                 @if($page->date) 
