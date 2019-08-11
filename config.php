@@ -76,7 +76,7 @@ return [
         'subjects',
         'courses' => [
             'path' => 'curriculum/ncea/{-title}',
-            'extends' => '_layouts.post',
+            'extends' => '_layouts.course',
             'sort' => '-date',
             'section' => 'postContent',
             'isPost' => true,

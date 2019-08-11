@@ -18,8 +18,23 @@
             <img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover; height: 250px; width: 100%;">
             @endif
             <div class="col">
-                @yield('postContent')
+            Year Level: {{ $page->year }} <br>
+            Available Credits: {{ $page->credits }}<br>
+Assessment type: {{ $page->assessment_type}}<br>
+Course Level: {{ $page->course_level }}<br>
 
+Available Standards:
+<ul class="list-group list-group-flush">
+@foreach($assessments->filter( function($a) use ($page){
+    return in_array($page->title, $a->courses ?? []);
+}) as $assessment)
+<li class="list-group-item">
+{{ $assessment->title }} ({{ $assessment->credits ?? "N/A"}} credits) <br>
+{{ $assessment->description }}
+
+</li>
+@endforeach
+</ul>
                 @if($page->date) 
                 <p>
                     <strong>Updated {{ date('F j, Y', $page->date) }}</strong><br>
