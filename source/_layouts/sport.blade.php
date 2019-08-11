@@ -20,7 +20,7 @@
             <div class="col">
                 @yield('postContent')
 
-                <div class="list-group">
+                <div class="list-group list-group-flush">
                 @foreach($sports as $sport)
                     <a href="{{$sport->getPath()}}" class="list-group-item list-group-item-action">{{ $sport->title}}</a>
                 @endforeach
