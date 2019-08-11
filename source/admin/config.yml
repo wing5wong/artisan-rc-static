@@ -59,7 +59,7 @@ collections:
 
   - name: "cocurricular"
     label: "Co-Curricular"
-    folder: "source/_curriculum/cocurricular"
+    folder: "source/_cocurricular"
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:
@@ -196,6 +196,16 @@ collections:
     - {label: "Body", name: "body", widget: "markdown"}
     - {label: "Tags", name: "tags", widget: "list", required: false}
 
+
+  - name: "departments"
+    label: "Departments"
+    label_singular: Department
+    folder: "source/_departments"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    fields:
+    - {label: "Title", name: "title", widget: "string", default: "Title"}
+
   - name: "subjects"
     label: "Subjects"
     label_singular: Subject
@@ -204,6 +214,13 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:
     - {label: "Title", name: "title", widget: "string", default: "Title"}
+    - label: "Department"
+      name: "department"
+      widget: "relation"
+      collection: "departments"
+      searchFields: ["title"]
+      valueField: "title"
+      displayFields: ["title"]
 
   - name: "courses"
     label: "Courses"

@@ -1,5 +1,4 @@
 ---
 title: ' Outdoor Education'
-subject: Outdoor Education
+department: Outdoor Education
 ---
-

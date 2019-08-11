@@ -1,5 +1,4 @@
 ---
 title: Agriculture and Horticulture
-subject: Sciences
+department: Sciences
 ---
-

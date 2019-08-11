@@ -1,5 +1,4 @@
 ---
 title: Practical Science
-subject: Sciences
+department: Sciences
 ---
-

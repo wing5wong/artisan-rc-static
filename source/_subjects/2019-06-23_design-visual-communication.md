@@ -1,5 +1,4 @@
 ---
 title: Design Visual Communication
-subject: Technologies
+department: Technologies
 ---
-

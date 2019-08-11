@@ -1,5 +1,4 @@
 ---
 title: Psychology
-subject: Psychology
 ---
 

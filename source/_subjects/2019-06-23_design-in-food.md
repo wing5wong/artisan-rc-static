@@ -1,5 +1,4 @@
 ---
 title: Design in Food
-subject: Technologies
+department: Technologies
 ---
-

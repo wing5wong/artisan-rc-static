@@ -1,5 +1,4 @@
 ---
 title: Chemistry
-subject: Sciences
+department: Sciences
 ---
-

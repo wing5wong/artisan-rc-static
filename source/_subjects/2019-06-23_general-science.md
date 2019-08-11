@@ -1,5 +1,4 @@
 ---
 title: General Science
-subject: Sciences
+department: Sciences
 ---
-

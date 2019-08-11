@@ -21,8 +21,18 @@
                 @yield('postContent')
 
                 <div class="list-group">
-                @foreach($cocurricular as $cc)
-                    <a href="{{$cc->getPath()}}" class="list-group-item list-group-item-action">{{ $cc->title}}</a>
+                @foreach($departments as $department)
+                    <a href="{{$department->getPath()}}" class="list-group-item list-group-item-action bg-primary text-white">{{ $department->title}}</a>
+                    <ul class="list-group">
+                    @foreach($subjects->filter( function($s) use ($department){
+                        return $s->department == $department->title;
+                    }) as $subject)
+                    <li class="list-group-item">
+                    <a href="{{$subject->getPath()}}" class="">{{ $subject->title}}</a>
+                    </li>
+</ul>
+                    @endforeach
+                    </ul>
                 @endforeach
                 </div>
 

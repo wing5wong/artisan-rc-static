@@ -72,6 +72,10 @@ return [
             'section' => 'postContent',
             'isPost' => true,
         ],
+        'departments',
+        'subjects',
+        'courses',
+        'assessments',
         'our_school' => [
             'path' => 'our-school/{-title}',
             'extends' => '_layouts.post',

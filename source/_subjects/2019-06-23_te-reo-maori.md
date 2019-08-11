@@ -1,5 +1,4 @@
 ---
 title: Te Reo Maori
-subject: Other Languages
+department: Other Languages
 ---
-
