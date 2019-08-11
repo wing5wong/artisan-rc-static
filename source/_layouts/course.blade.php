@@ -23,6 +23,7 @@
 Assessment type: {{ $page->assessment_type}}<br>
 Course Level: {{ $page->course_level }}<br>
 
+<br>
 Available Standards:
 <ul class="list-group list-group-flush">
 @foreach($assessments->filter( function($a) use ($page){
