@@ -35,21 +35,11 @@
                                 }) as $course)
                                 <li class="list-group-item">
                                     <a href="{{$course->getPath()}}" class="">{{ $course->title}}</a>
-                                    <!-- <ul class="list-group">
-                                        @foreach($assessments->filter( function($a) use ($course){
-                                        return in_array($course->title, $a->courses ?? []);
-                                        }) as $assessment)
-                                        <li class="list-group-item">
-                                            <a href="{{$assessment->getPath()}}" class="">{{ $assessment->title}}</a>
-                                        </li>
-                                        @endforeach
-                                    </ul> -->
                                 </li>
                                 @endforeach
                             </ul>
                         </li>
-                    </ul>
-                    @endforeach
+                        @endforeach
                     </ul>
                     @endforeach
                 </div>
