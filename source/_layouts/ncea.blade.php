@@ -32,7 +32,7 @@
                             <ul class="list-group list-group-flush">
                                 @foreach($courses->filter( function($c) use ($subject){
                                 return $c->subject == $subject->title;
-                                }) as $course)
+                                })->sortBy('year') as $course)
                                 <li class="list-group-item">
                                     <a href="{{$course->getPath()}}" class="">{{ $course->title}}</a>
                                 </li>
