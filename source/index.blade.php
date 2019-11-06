@@ -50,13 +50,13 @@
 
             <div class="col-lg-4 box">
               <i class="ion-ios-bookmarks-outline"></i>
-              <h4 class="title"><a href="/news">News</a></h4>
-              <p class="description">All the latest stories about Ruapehu College</p>
+              <h4 class="title"><a href="/https://kamar.ruapehu.school.nz/index.php/notices">Notices</a></h4>
+              <p class="description">All the latest notices for Ruapehu College</p>
             </div>
 
             <div class="col-lg-4 box box-bg">
               <i class="ion-ios-stopwatch-outline"></i>
-              <h4 class="title"><a href="/news/upcoming-events">Events</a></h4>
+              <h4 class="title"><a href="https://kamar.ruapehu.school.nz/index.php/calendar">Events</a></h4>
               <p class="description">Whats coming up at Ruapehu College</p>
             </div>
 
@@ -208,7 +208,7 @@
         <div class="container text-center">
           <h3>Enrolments are open! </h3>
           <p>Rapuhia Kōte Mātauranga : Seek Further Knowledge</p>
-          <a class="cta-btn" href="/enrolments">
+          <a class="cta-btn" href="/enrolment">
             Enrol Today!
           </a>
         </div>

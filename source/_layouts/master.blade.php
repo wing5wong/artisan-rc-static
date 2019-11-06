@@ -93,14 +93,14 @@
                     </li>
 
                     <li class="menu-has-children">
-                        <a href="/news" class="sf-with-ul">News</a>
+                        <a href="https://kamar.ruapehu.school.nz/index.php/notices" class="sf-with-ul">Notices</a>
                         <ul>
                             <li>
                                 <a href="/news/newsletters">Newsletters</a>
                             </li>
-                            <li>
-                                <a href="/news/upcoming-events">Events</a>
-                            </li>
+                            <!-- <li>
+                                <a href="https://kamar.ruapehu.school.nz/index.php/">Events</a>
+                            </li> -->
                             <li>
                                 <a href="https://kamar.ruapehu.school.nz/index.php/calendar">Calendar</a>
                             </li>
