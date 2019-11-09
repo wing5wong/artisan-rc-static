@@ -70,7 +70,7 @@
         </div>
       </section>
       <!-- #featured-services -->
-
+<!-- 
       <section id="nisssb-nisssc">
         <div class="row no-gutters text-center">
 
@@ -93,7 +93,7 @@
           </div>
 
         </div>
-      </section>
+      </section> -->
 
       <!--==========================
       About Us Section
