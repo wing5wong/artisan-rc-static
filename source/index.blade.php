@@ -50,7 +50,7 @@
 
             <div class="col-lg-4 box">
               <i class="ion-ios-bookmarks-outline"></i>
-              <h4 class="title"><a href="/https://kamar.ruapehu.school.nz/index.php/notices">Notices</a></h4>
+              <h4 class="title"><a href="https://kamar.ruapehu.school.nz/index.php/notices">Notices</a></h4>
               <p class="description">All the latest notices for Ruapehu College</p>
             </div>
 
