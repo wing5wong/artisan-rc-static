@@ -10,8 +10,8 @@ dates:
   - end_date: 2020-09-24T12:00:00.000Z
     start_date: 2020-07-19T12:00:00.000Z
     title: Term 3
-  - end_date: 2019-12-10T11:00:00.000Z
-    start_date: 2019-10-13T11:00:00.000Z
+  - end_date: 2020-12-03T11:00:00.000Z
+    start_date: 2020-10-11T11:00:00.000Z
     title: Term 4
 ---
 
