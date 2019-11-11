@@ -4,8 +4,8 @@ dates:
   - end_date: 2020-04-08T12:00:00.000Z
     start_date: 2020-01-27T11:00:00.000Z
     title: Term 1
-  - end_date: 2019-07-04T12:00:00.000Z
-    start_date: 2019-04-28T12:00:00.000Z
+  - end_date: 2020-07-02T12:00:00.000Z
+    start_date: 2020-04-27T12:00:00.000Z
     title: Term 2
   - end_date: 2019-09-26T12:00:00.000Z
     start_date: 2019-07-21T12:00:00.000Z
