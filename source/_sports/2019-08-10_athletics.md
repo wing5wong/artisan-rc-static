@@ -1,5 +1,7 @@
 ---
 title: Athletics
+image: >-
+  https://res.cloudinary.com/ruapehu-college/image/upload/v1573523394/IMG_2311_lxlcgu.jpg
 ---
 Athletics and ‘School Spirit’ Day
 
