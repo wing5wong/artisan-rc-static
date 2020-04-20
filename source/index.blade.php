@@ -7,7 +7,9 @@
   <div style="padding: 20px 0 20px 0;margin-top: 128px;background: #fff;border-bottom: 8px solid #fc0;">
     <div class="container">
       <div class="row">
-        <div class="col-sm-12">Covid Update</div>
+        <div class="col-sm-12">
+          <a href="/news/covid-19-update-april-20/">Read our latest COVID-19 Updates</a>
+        </div>
       </div>
     </div>
   </div>
