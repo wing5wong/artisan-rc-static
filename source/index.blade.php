@@ -3,74 +3,82 @@
 @section('content')
 
 
-    <section id="intro">
-      <div class="intro-container">
-        <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
+<section id="intro">
+  <div style="padding: 20px 0 20px 0;margin-top: 128px;background: #fff;border-bottom: 8px solid #fc0;">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">Covid Update</div>
+      </div>
+    </div>
+  </div>
 
-          <ol class="carousel-indicators"></ol>
+  <div class="intro-container">
+    <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
 
-          <div class="carousel-inner" role="listbox">
-            @foreach($slider_images as $si)
+      <ol class="carousel-indicators"></ol>
 
-              <div class="carousel-item @if($loop->first)active @endif">
-                <div class="carousel-background">
-                  <img class="carousel-background" style="width:1920px; height: 1080px;" src="{{$si->image}}" alt="">
-                </div>
-                <div class="carousel-caption d-none d-md-block">
-                  <h5>{{$si->title}}</h5>
-                  {!! $si !!}
-                </div>
+      <div class="carousel-inner" role="listbox">
+        @foreach($slider_images as $si)
 
-              </div>
-            @endforeach
+        <div class="carousel-item @if($loop->first)active @endif">
+          <div class="carousel-background">
+            <img class="carousel-background" style="width:1920px; height: 1080px;" src="{{$si->image}}" alt="">
+          </div>
+          <div class="carousel-caption d-none d-md-block">
+            <h5>{{$si->title}}</h5>
+            {!! $si !!}
           </div>
 
-          <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon ion-chevron-left" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-          </a>
-
-          <a class="carousel-control-next" href="#introCarousel" role="button" data-slide="next">
-            <span class="carousel-control-next-icon ion-chevron-right" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-          </a>
-
         </div>
+        @endforeach
       </div>
-    </section>
-    <!-- #intro -->
-    <main id="main">
 
-      <!--==========================
+      <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon ion-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+
+      <a class="carousel-control-next" href="#introCarousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon ion-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+
+    </div>
+  </div>
+</section>
+<!-- #intro -->
+<main id="main">
+
+  <!--==========================
       Featured Services Section
     ============================-->
-      <section id="featured-services">
-        <div class="container">
-          <div class="row">
+  <section id="featured-services">
+    <div class="container">
+      <div class="row">
 
-            <div class="col-lg-4 box">
-              <i class="ion-ios-bookmarks-outline"></i>
-              <h4 class="title"><a href="https://kamar.ruapehu.school.nz/index.php/notices">Notices</a></h4>
-              <p class="description">All the latest notices for Ruapehu College</p>
-            </div>
-
-            <div class="col-lg-4 box box-bg">
-              <i class="ion-ios-stopwatch-outline"></i>
-              <h4 class="title"><a href="https://kamar.ruapehu.school.nz/index.php/calendar">Events</a></h4>
-              <p class="description">Whats coming up at Ruapehu College</p>
-            </div>
-
-            <div class="col-lg-4 box">
-              <i class="ion-ios-heart-outline"></i>
-              <h4 class="title"><a href="/curriculum">Curriculum</a></h4>
-              <p class="description">What can I study at Ruapehu College</p>
-            </div>
-
-          </div>
+        <div class="col-lg-4 box">
+          <i class="ion-ios-bookmarks-outline"></i>
+          <h4 class="title"><a href="https://kamar.ruapehu.school.nz/index.php/notices">Notices</a></h4>
+          <p class="description">All the latest notices for Ruapehu College</p>
         </div>
-      </section>
-      <!-- #featured-services -->
-<!-- 
+
+        <div class="col-lg-4 box box-bg">
+          <i class="ion-ios-stopwatch-outline"></i>
+          <h4 class="title"><a href="https://kamar.ruapehu.school.nz/index.php/calendar">Events</a></h4>
+          <p class="description">Whats coming up at Ruapehu College</p>
+        </div>
+
+        <div class="col-lg-4 box">
+          <i class="ion-ios-heart-outline"></i>
+          <h4 class="title"><a href="/curriculum">Curriculum</a></h4>
+          <p class="description">What can I study at Ruapehu College</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+  <!-- #featured-services -->
+  <!-- 
       <section id="nisssb-nisssc">
         <div class="row no-gutters text-center">
 
@@ -95,7 +103,7 @@
         </div>
       </section> -->
 
-      <!--==========================
+  <!--==========================
       About Us Section
     ============================
     <section id="about">
@@ -152,7 +160,7 @@
       </div>
     </section><!-- #about -->
 
-      <!--==========================
+  <!--==========================
       Services Section
     ============================
     <section id="services">
@@ -201,24 +209,24 @@
       </div>
     </section><!-- #services -->
 
-      <!--==========================
+  <!--==========================
       Call To Action Section
     ============================-->
-      <section id="call-to-action" class="wow fadeIn">
-        <div class="container text-center">
-          <h3>Enrolments are open! </h3>
-          <p>Rapuhia Kōte Mātauranga : Seek Further Knowledge</p>
-          <a class="cta-btn" href="/enrolment">
-            Enrol Today!
-          </a>
-        </div>
-      </section>
-      <!-- #call-to-action -->
+  <section id="call-to-action" class="wow fadeIn">
+    <div class="container text-center">
+      <h3>Enrolments are open! </h3>
+      <p>Rapuhia Kōte Mātauranga : Seek Further Knowledge</p>
+      <a class="cta-btn" href="/enrolment">
+        Enrol Today!
+      </a>
+    </div>
+  </section>
+  <!-- #call-to-action -->
 
-      <!--==========================
+  <!--==========================
       Skills Section
     ============================-->
-      <!--
+  <!--
 <section id="skills">
       <div class="container">
 
@@ -259,7 +267,7 @@
     </section>
 -->
 
-      <!--==========================
+  <!--==========================
       Facts Section
     ============================
     <section id="facts"  class="wow fadeIn">
@@ -301,7 +309,7 @@
       </div>
     </section><!-- #facts -->
 
-      <!--==========================
+  <!--==========================
       Portfolio Section
     ============================
     <section id="portfolio"  class="section-bg" >
@@ -464,7 +472,7 @@
       </div>
     </section><!-- #portfolio -->
 
-      <!--==========================
+  <!--==========================
       Clients Section
     ============================
     <section id="clients" class="wow fadeInUp">
@@ -488,7 +496,7 @@
       </div>
     </section><!-- #clients -->
 
-      <!--==========================
+  <!--==========================
       Clients Section
     ============================
     <section id="testimonials" class="section-bg wow fadeInUp">
@@ -560,7 +568,7 @@
       </div>
     </section><!-- #testimonials -->
 
-      <!--==========================
+  <!--==========================
       Team Section
     ============================
     <section id="team">
@@ -649,48 +657,48 @@
       </div>
     </section><!-- #team -->
 
-      <!--==========================
+  <!--==========================
       Contact Section
     ============================-->
-      <section id="contact" class="section-bg wow fadeInUp">
-        <div class="container">
+  <section id="contact" class="section-bg wow fadeInUp">
+    <div class="container">
 
-          <div class="section-header">
-            <h3>Contact Us</h3>
-            <p>We are happy to answer your questions!</p>
+      <div class="section-header">
+        <h3>Contact Us</h3>
+        <p>We are happy to answer your questions!</p>
+      </div>
+
+      <div class="row contact-info">
+
+        <div class="col-md-4">
+          <div class="contact-address">
+            <i class="ion-ios-location-outline"></i>
+            <h3>Address</h3>
+            <address>30 Tainui Street, Ohakune, NZ</address>
           </div>
-
-          <div class="row contact-info">
-
-            <div class="col-md-4">
-              <div class="contact-address">
-                <i class="ion-ios-location-outline"></i>
-                <h3>Address</h3>
-                <address>30 Tainui Street, Ohakune, NZ</address>
-              </div>
-            </div>
-
-            <div class="col-md-4">
-              <div class="contact-phone">
-                <i class="ion-ios-telephone-outline"></i>
-                <h3>Phone Number</h3>
-                <p><a href="tel:+64-6-385-8398">06 385 8398</a></p>
-              </div>
-            </div>
-
-            <div class="col-md-4">
-              <div class="contact-email">
-                <i class="ion-ios-email-outline"></i>
-                <h3>Email</h3>
-                <p><a href="mailto:office@ruapehu.school.nz">office@ruapehu.school.nz</a></p>
-              </div>
-            </div>
-
-          </div>
-
         </div>
-      </section>
-      <!-- #contact -->
 
-    </main>
+        <div class="col-md-4">
+          <div class="contact-phone">
+            <i class="ion-ios-telephone-outline"></i>
+            <h3>Phone Number</h3>
+            <p><a href="tel:+64-6-385-8398">06 385 8398</a></p>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="contact-email">
+            <i class="ion-ios-email-outline"></i>
+            <h3>Email</h3>
+            <p><a href="mailto:office@ruapehu.school.nz">office@ruapehu.school.nz</a></p>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+  <!-- #contact -->
+
+</main>
 @endsection
