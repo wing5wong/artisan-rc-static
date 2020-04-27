@@ -3,7 +3,9 @@ extends: _layouts.post
 title: COVID-19 Update April 20
 date: 2020-04-20T21:16:20.139Z
 ---
-Kia ora koutou
+[Click here to download The Guide for Parents, Caregivers or Whānau to help students manage](https://res.cloudinary.com/ruapehu-college/image/upload/v1588027544/Covid_update_6_School_info_for_Parents_1_pxegml.pdf)
+
+[NCEA assessment remotely during COVID-19 Alert Levels 3-4Kia ora koutou](https://res.cloudinary.com/ruapehu-college/image/upload/v1588027544/Covid_update_6_School_info_for_Parents_1_pxegml.pdf)
 
 I hope you are all well in your family bubbles.
 
