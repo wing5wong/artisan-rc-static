@@ -1,5 +1,5 @@
 ---
-title: Mrs Leah Sims
+title: Mrs Sarah Demchy
 email: sport@ruapehu.school.nz
 date: 2019-08-10T04:47:11.694Z
 roles: Sport Co-ordinator
