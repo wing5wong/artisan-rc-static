@@ -3,143 +3,75 @@ extends: _layouts.post
 title: COVID-19 Update April 20
 date: 2020-04-20T21:16:20.139Z
 ---
-[Click here to download The Guide for Parents, Caregivers or Whānau to help students manage](https://res.cloudinary.com/ruapehu-college/image/upload/v1588027544/Covid_update_6_School_info_for_Parents_1_pxegml.pdf)
+COVID-19 Update May 12
 
-[NCEA assessment remotely during COVID-19 Alert Levels 3-4Kia ora koutou](https://res.cloudinary.com/ruapehu-college/image/upload/v1588027544/Covid_update_6_School_info_for_Parents_1_pxegml.pdf)
 
-I hope you are all well in your family bubbles.
 
-The Prime Minister has confirmed that schools will be open from 29 April for year 9 and 10
+Kia ora koutou
 
-students only with restrictions. Year 11, 12, and 13 are to continue with distance learning at home.
+The Prime Minister has advised that schools will reopen as the country transitions to Alert Level 2.
 
-Under Level 3 the Prime Minister has also made it clear that the overriding principle is for students
+As we prepare for a full reopening and to resume our core business of teaching and learning, I wish to advise the following:
 
-to stay at home and to continue distance learning. However, if you deem it necessary to send your
+1.	Student and staff safety remains paramount.
 
-children to school then children must be free from any signs of illness.
+2.	We will continue many of the protocols we have in place, but with new amendments to accommodate the health and safety guidelines under Level 2
 
-Over the next few days, office staff will be contacting our entire year 9 and year 10 parent and
+3.	If either students or staff are unwell, they are instructed to stay home.
 
-caregiver community to determine if you will be sending your children to school. This information
+4.	If you have a child who may be in a vulnerable category of risk, please contact me to discuss.
 
-needs to be accurate to aid our preparations for student returns. It is important that you know that
+5.	Distance learning remains available for a further two weeks for students with medical issues, please contact the school on (06) 385 8398 to discuss.
 
-the onsite learning at school will be the same as the online and distance learning at home, and that
+6.	Juniors and seniors will have staggered returns. This is to ensure that our planned health and safety protocols are operating without compromise. We only have one opportunity to get this right from the start. I apologise to whanau that this may inconvenience, but the safety of our entire student body is our highest priority.
 
-we will be doing our utmost to protect students and the bubbles to which they belong.
+\- All junior students are back to school on Monday 18 May
 
-We are also acutely aware of the critical importance of getting this right, as our school community
+\- All senior students are back to school on Tuesday 19 May
 
-is quite unique in that it comprises a number of caregivers who are grandparents. They comprise
+7.	Students that were issued a chromebook for home, must bring it to school on their return. Students are encouraged to bring their own device into school. Internet access will be provided. 
 
-an at-risk group and we are determined to protect them at all costs, as an illness, or heaven forbid
+\_\_\_\_\_\_\_\_\_\_
 
-a loss, would be devastating to us all.
+Calendar
 
-The college’s safety protocols are as follows:
+18 MAY \[JUNIOR SCHOOL FIRST DAY]
 
-CLEANING
+\-	Junior school assembly 9:00am.
 
-\- The college will be commercially cleaned this week.
 
-\- Hand sanitizer and paper towels will be available in every classroom.
 
-\- Bathrooms will be checked and restocked twice daily \[hand sanitiser/paper towels].
+19 MAY \[SENIOR SCHOOL FIRST DAY]
 
-STUDENT BUBBLES
+\-	Senior school assembly 9:00am.
 
-\- Students will be assigned to their own bubble of 10.
 
-\- Each student bubble will be assigned to their own homeroom \[classroom].
 
-\- Students will remain in the same homeroom for the entire school day.
+18 MAY - 1 JUNE
 
-\- There will be no practical lessons \[food technology, soft materials, hard materials, PE].
+\-	School times: 9:00am to 3:00pm.
 
-\- Each student will be assigned to their own desk and chair in their homeroom.
+\-	Juniors and seniors will be separated and located to their own blocks.
 
-\- Learning resources will not be shared.
+\-	Hand sanitiser will continue to be provided in all classrooms.
 
-\- Homeroom surfaces will be sanitised twice daily.
+\-	Normal cleaning which includes disinfecting surface areas in all areas of the school will continue.
 
-\- Each bubble will be allocated times for non-contact exercise outside \[weather permitting].
 
-STUDENT BREAKS
-
-\- There will be no interaction between student bubbles.
-
-\- Students will be supervised in their bubbles during breaks.
-
-\- Each bubble will have their own area of the school with which they will have their breaks.
-
-\- Each bubble will be allocated times to access the canteen.
-
-GENERAL
-
-\- PPE \[disposable masks only] will be available on request \[until stocks run out].
-
-\- Physical distancing will be enforced \[1m inside and 2m outside].
-
-\- Homerooms will remain unlocked to avoid students waiting in lines at the start of the day
-
-and after each break.
-
-\- Each year level will be assigned to their own bathroom.
-
-\- Only one student in the bathroom at a time.
-
-\- Student movement within the school from bus drop off to bus pick up will be supervised by
-
-staff, in single file, keeping to the left hand side of corridors when inside.
-
-FIRST DAY BACK - ASSEMBLY
-
-\- Students will be met at the bus stop and walked single file to the hall.
-
-\- If students are dropped off, they are to go directly to the hall.
-
-\- Hall seating will be in single chairs in rows and columns, spaced 2m apart.
-
-\- Students will be welcomed back and informed of the protocols of returning to school under
-
-Level 3, the importance of not compromising the safety protocols, and encouraged to focus
-
-their energies upon their learning.
-
-\- Our entire student body, both juniors and seniors will be recognised for their strength of
-
-character that they have shown to learn under these conditions.
-
-\- Students who are present will be informed how to seek support and help if they are feelingoverwhelmed, anxious or under any stress.
-
-\- Student well-being remains paramount to us.
-
-\- Students will be invited to ask any questions that they may have.
-
-\- Students will then be informed of their respective year group bubble of 10, and their
-
-homeroom teacher.
-
-\- Once each bubble of 10 has been named, they will then be escorted in a single file from the
-
-hall to their homeroom to start their onsite learning.
 
 SCHOOL BUSES
 
-\- Will be operating with physical distance rules enforced, however, parents and caregivers
+\-	Will have hand sanitiser available, but are unable to provide social distancing. 
 
-may prefer to transport their children instead.
+\-	Bus times will be scheduled to arrive at school at 8:55am.
 
-We are all in this together, and I would like to echo the Prime Minister’s call to “Be kind”. I am both
+\-	Bus pickup times will be staggered, with times to be advised.
 
-humbled and proud to be leading the school during this time with you, continuing to serve our
 
-wonderful community together, and building upon the successes that our teachers, Board, and
 
-leadership team have set before us. If you have any concerns, please do not hesitate to contact the school office from the 28 April.
+If you have any concerns, please do not hesitate to contact us at the college.
 
-Naku noa,
+
 
 Marama Allen
 
