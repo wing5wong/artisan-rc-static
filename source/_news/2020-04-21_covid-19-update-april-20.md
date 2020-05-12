@@ -1,6 +1,6 @@
 ---
 extends: _layouts.post
-title: COVID-19 Update April 20
+title: COVID-19 Update May 13
 date: 2020-04-20T21:16:20.139Z
 ---
 COVID-19 Update May 12
