@@ -5,5 +5,6 @@ responsibilities:
   - Finance
   - Member
   - Iwi Representative
+  - Chairperson
 ---
 
