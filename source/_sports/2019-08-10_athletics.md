@@ -14,24 +14,11 @@ Congratulations to all out participants, winners and the staff who organised the
 
  Age Grade Champions:
 
-Senior Girl – Shaquana Taylor
+Junior Boys - Tiori Arahanga
+Junior Girls - Shae Lyons
+Intermediate Boys - Taniora Taitumu
+Intermediate Girls - Korbyn Garland
+Senior Boys -Samuel Lyon
+Senior Girls - Shaquana Taylor
 
-Senior Boy – Tekaokao Kairimu
 
-Intermediate Girl – Una Drayton
-
-Intermediate Boy – Takarangi Metekingi
-
-Junior Girl – Bella Hohipa
-
-Junior Boy – Taniora Taitumu
-
- Whanau Results:
-
-1st – Kiwi
-
-2nd – Weka
-
-3rd – Huia
-
-4th – Tui
