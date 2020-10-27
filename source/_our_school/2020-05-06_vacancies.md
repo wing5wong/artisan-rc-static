@@ -17,10 +17,8 @@ Canteen Manager
 
 ![](https://res.cloudinary.com/ruapehu-college/image/upload/v1603756398/Canteen_Manager_jqqlji.jpg)
 
-
-
 Office Manager
 
-Job Description
+[Job Description](https://res.cloudinary.com/ruapehu-college/image/upload/v1603756852/POSITION_DESCRIPTION_Office_Manager_tltii0.pdf)
 
 ![](https://res.cloudinary.com/ruapehu-college/image/upload/v1603756391/2020_20_10_Ad_-_Office_Manager_mvo3mk.jpg)
