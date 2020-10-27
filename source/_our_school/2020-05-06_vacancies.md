@@ -12,3 +12,15 @@ POSITION: U4 Principal
 [Application Pack docx](https://res.cloudinary.com/ruapehu-college/raw/upload/v1601877119/Application_form_FINAL_sfilyx.docx)
 
 [Referee Form](https://res.cloudinary.com/ruapehu-college/raw/upload/v1601877150/Referee_form_FINAL_w2zxaz.docx)
+
+Canteen Manager
+
+![](https://res.cloudinary.com/ruapehu-college/image/upload/v1603756398/Canteen_Manager_jqqlji.jpg)
+
+
+
+Office Manager
+
+Job Description
+
+![](https://res.cloudinary.com/ruapehu-college/image/upload/v1603756391/2020_20_10_Ad_-_Office_Manager_mvo3mk.jpg)
