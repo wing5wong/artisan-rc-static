@@ -11,11 +11,7 @@ Deputy Principal - Fulltime, Permanent
 
 
 
-
-
-
-
-
+Please click on the following links to download the required forms.
 
 [Application Form Deputy Principal Ruapehu College](https://res.cloudinary.com/ruapehu-college/image/upload/v1610511359/2021_Application_Form_DP_Ruapehu_College_v38z04.pdf)
 
