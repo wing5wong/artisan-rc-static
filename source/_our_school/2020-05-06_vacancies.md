@@ -3,22 +3,28 @@ extends: _layouts.post
 title: Vacancies
 date: 2020-05-05T23:28:52.363Z
 ---
-POSITION: U4 Principal
+Deputy Principal - Fulltime, Permanent
 
-![](https://res.cloudinary.com/ruapehu-college/image/upload/v1601876872/Ad_b5aapw.jpg)
+5MMU + 1SMA
 
-[Application Pack Pdf](https://res.cloudinary.com/ruapehu-college/image/upload/v1601877084/Application_pack_FINAL_wynnaz.pdf)
+![](https://res.cloudinary.com/ruapehu-college/image/upload/v1610511340/DP_Advert_zbqmgu.jpg)
 
-[Application Pack docx](https://res.cloudinary.com/ruapehu-college/raw/upload/v1601877119/Application_form_FINAL_sfilyx.docx)
 
-[Referee Form](https://res.cloudinary.com/ruapehu-college/raw/upload/v1601877150/Referee_form_FINAL_w2zxaz.docx)
 
-Canteen Manager
 
-![](https://res.cloudinary.com/ruapehu-college/image/upload/v1603756398/Canteen_Manager_jqqlji.jpg)
 
-Office Manager
 
-[Job Description](https://res.cloudinary.com/ruapehu-college/image/upload/v1603756852/POSITION_DESCRIPTION_Office_Manager_tltii0.pdf)
 
-![](https://res.cloudinary.com/ruapehu-college/image/upload/v1603756391/2020_20_10_Ad_-_Office_Manager_mvo3mk.jpg)
+
+
+[Application Form Deputy Principal Ruapehu College](https://res.cloudinary.com/ruapehu-college/image/upload/v1610511359/2021_Application_Form_DP_Ruapehu_College_v38z04.pdf)
+
+[Letter from the Principal Ruapehu College](https://res.cloudinary.com/ruapehu-college/image/upload/v1610511360/2021_Letter_from_the_Principal_Ruapehu_College_yobcws.pdf)
+
+[Ruapehu College Deputy Principal Job Description](https://res.cloudinary.com/ruapehu-college/image/upload/v1610511360/2021_Ruapehu_College_Deputy_Principal_Job_Description_du3fsk.pdf)
+
+[Referee Form](https://res.cloudinary.com/ruapehu-college/image/upload/v1610511360/2021_Referee_Form_mpsrny.pdf)
+
+
+
+![]()
