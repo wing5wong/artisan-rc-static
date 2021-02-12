@@ -1,11 +1,11 @@
 ---
 title: Public Holidays
 dates:
-  - end_date: 2020-02-05T11:00:00.000Z
-    start_date: 2020-02-05T11:00:00.000Z
-    title: Waitangi Day
-  - end_date: 2020-04-09T12:00:00.000Z
-    start_date: 2020-04-09T12:00:00.000Z
+  - end_date: 2021-02-07T11:00:00.000Z
+    start_date: 2021-02-07T11:00:00.000Z
+    title: Waitangi Day (Observed)
+  - end_date: 2021-04-01T11:00:00.000Z
+    start_date: 2021-04-01T11:00:00.000Z
     title: Good Friday
   - end_date: 2020-04-12T12:00:00.000Z
     start_date: 2020-04-12T12:00:00.000Z
