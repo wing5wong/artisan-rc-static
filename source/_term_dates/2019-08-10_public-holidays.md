@@ -16,8 +16,8 @@ dates:
   - end_date: 2021-06-06T12:00:00.000Z
     start_date: 2021-06-06T12:00:00.000Z
     title: Queen's Birthday
-  - end_date: 2020-10-25T11:00:00.000Z
-    start_date: 2020-10-25T11:00:00.000Z
+  - end_date: 2021-10-24T11:00:00.000Z
+    start_date: 2021-10-24T11:00:00.000Z
     title: Labour Day
 ---
 
