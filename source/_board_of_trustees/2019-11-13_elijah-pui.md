@@ -6,5 +6,7 @@ responsibilities:
   - Member
   - Iwi Representative
   - Chairperson
+  - Health and Safety
+  - Property
 ---
 
