@@ -3,20 +3,4 @@ extends: _layouts.post
 title: Vacancies
 date: 2020-05-05T23:28:52.363Z
 ---
-Deputy Principal - Fulltime, Permanent
-
-5MMU + 1SMA
-
-![](https://res.cloudinary.com/ruapehu-college/image/upload/v1610511340/DP_Advert_zbqmgu.jpg)
-
-Please click on the following links to download the required forms.
-
-[Application Form Deputy Principal Ruapehu College](https://res.cloudinary.com/ruapehu-college/image/upload/v1610511359/2021_Application_Form_DP_Ruapehu_College_v38z04.pdf). [Click here for Word Format.](https://res.cloudinary.com/ruapehu-college/raw/upload/v1611776525/2021_Application_Form_DP_Ruapehu_College_rsm4hh.docx)
-
-[Letter from the Principal Ruapehu College](https://res.cloudinary.com/ruapehu-college/image/upload/v1610511360/2021_Letter_from_the_Principal_Ruapehu_College_yobcws.pdf)
-
-[Ruapehu College Deputy Principal Job Description](https://res.cloudinary.com/ruapehu-college/image/upload/v1610511360/2021_Ruapehu_College_Deputy_Principal_Job_Description_du3fsk.pdf). [Click here for Word Format.](https://res.cloudinary.com/ruapehu-college/raw/upload/v1611776526/2021_Ruapehu_College_Deputy_Principal_Job_Description_dq2euy.docx)
-
-[Referee Form](https://res.cloudinary.com/ruapehu-college/image/upload/v1610511360/2021_Referee_Form_mpsrny.pdf). [Click here for Word Format.](https://res.cloudinary.com/ruapehu-college/raw/upload/v1611776525/2021_Referee_Form_cokuof.docx)
-
-![]()
+Ruapehu College currently has no vacancies.
