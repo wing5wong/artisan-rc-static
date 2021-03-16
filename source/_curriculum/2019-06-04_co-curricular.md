@@ -41,6 +41,4 @@ The band placed 2nd in the Whanganui Regional Final with their raw power and ene
 
 Proudly, ‘Flower Of Hades’ made the final elimination list of 25 bands to be considered for a televised live final. From a pool of thousands, this is a truly remarkable achievement and one that each of the students truly deserved. They have set a very high standard for future students to aspire to, meet and improve on. We at Ruapehu College are incredibly proud of them and each of the entrants.
 
-Performance C
-
-oncerts
+Performance Concerts
