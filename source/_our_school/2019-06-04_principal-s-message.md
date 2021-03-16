@@ -23,4 +23,4 @@ Whaia e koe te iti kahurangi
 
 Ki te tuohu koe me he maunga teitei
 
-Kim Basse
+Marama Allen
