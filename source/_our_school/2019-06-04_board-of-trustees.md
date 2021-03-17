@@ -11,7 +11,7 @@ Our board of trustees meetings are open to the public, students, staff and whān
 
 The meeting dates are below and are held at school in the staff meeting room starting at 5pm.
 
-The dates sre:
+The dates are:
 
 Thursday 25th March
 
