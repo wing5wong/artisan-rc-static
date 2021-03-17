@@ -1,6 +1,6 @@
 ---
-title: Samuel Lyon
-date: 2019-08-13T21:21:47.153Z
+title: Connor Halliday
+date: 2021-03-17T20:21:47.153Z
 position: Head Boy
 ---
 
