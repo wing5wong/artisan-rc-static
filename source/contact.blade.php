@@ -9,7 +9,7 @@
                     <div class="col-sm-12">
     <h1>Contact Us</h1>
 </div>
-</div>con
+</div>
 <div class="row">
                     <div class="col-sm-12">
     30 Tainui Street <br>
