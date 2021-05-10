@@ -11,6 +11,8 @@ As part of the food requirements, food allergens and restrictions due to religio
 
 Introducing our wonderful school lunch team, Bubba Wall, Christiane Te Riaki and Linda Laksen who are making our student lunches. The students say they were really yummy.
 
+![](https://res.cloudinary.com/ruapehu-college/image/upload/v1620681560/IMG_8649_svs4xm.jpg)
+
 **Menu**
 
 Below is our four week school lunch menu for term two. 
