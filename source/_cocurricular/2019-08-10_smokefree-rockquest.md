@@ -2,9 +2,9 @@
 title: 'Smokefree Rockquest '
 date: 2020-11-04T11:00:00.000Z
 ---
-**Smokefree Rockquest**
+![](https://res.cloudinary.com/ruapehu-college/image/upload/v1621510290/Performing%20Arts/Smokefree_Rockquest_2016-2020_pxgbfv.jpg)
 
-![](https://res.cloudinary.com/ruapehu-college/image/upload/v1615859220/ROCKQUEST_-_Flower_Of_Hades_-_National_Top_25_Bands_vkwuhb.jpg)
+**Smokefree Rockquest**
 
 In 2020 Rockquest Promotions did exceptionally well to ensure that a competition took place. In it’s 31st year, not even Covid-19 could spoil the party although it did prevent any live staging of events, thus creating jeopardy around the viability of the traditional format of performance-based judging in front of a live audience. This meant that students had to capture the essence of their songwriting and performance on camera. We had more participants than ever before this year; entering Rockquest has become a badge of honour for our musicians at Ruapehu College and we hope it continues to be so. There was a wide range of entries across all categories with “Flower Of Hades” really taking it to the competition.
 
