@@ -2,6 +2,8 @@
 title: 'Production '
 date: 2019-08-10T11:37:39.784Z
 ---
+![](https://res.cloudinary.com/ruapehu-college/image/upload/v1621510290/Performing%20Arts/PRODUCTIONS_-_Mollie_TAAFT_ATWAV_nyxjh3.jpg)
+
 Ruapehu College offers students the opportunity to audition for the annual school production. This is an activity that requires dedication and commitment beyond the classroom in order to produce quality shows. The last five years have seen very high caliber performances given including locally penned plays based on events in the Ohakune area. 
 
 "Mountain Uplift" (2016) and "Mollie" (2018) were both very well received by audiences as Ruapehu College sought to re-ignite the annual Production. Comedy-farce "There's An App For That?" (2019) had large audiences in stiches and the dark-comedy "A Tomb With A View" (2019) was a nail-biting, sold-out show performed in an up-close and intimate theatre style.
