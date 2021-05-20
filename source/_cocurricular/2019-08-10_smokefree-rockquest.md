@@ -16,9 +16,7 @@ Duo Entries
 
 Kate Rowe and Nazomi Groot composed a new song “Closer” to add to previous material they had each written in entering their fourth successive Rockquests. Both participating in the Solo category in 2019 and in the band ‘etc,etc…’ in Year 10 and 11. Their songwriting and performance was noted by the judges and although they did not place at the regional stage, they received a ‘Second Chance’ opportunity at the request and discretion of Rockquest Promotions Ltd. The duo took this opportunity and submitted further original pieces for consideration.
 
-Sapphire Mapp and Davron Takitimu teamed up as “Maui Wowee” and placed 2nd in the category for the Whanganui region. Their laid-back, jazz infused 
-
-tunes were a point of difference which made them stand out. The combination of clever lyrics and complex chord structures (“Blue Dream”) made for a particularly bold statement as teenaged musicians. They also submitted further work for national consideration.
+Sapphire Mapp and Davron Takitimu teamed up as “Maui Wowee” and placed 2nd in the category for the Whanganui region. Their laid-back, jazz infused tunes were a point of difference which made them stand out. The combination of clever lyrics and complex chord structures (“Blue Dream”) made for a particularly bold statement as teenaged musicians. They also submitted further work for national consideration.
 
 Band Entry
 
