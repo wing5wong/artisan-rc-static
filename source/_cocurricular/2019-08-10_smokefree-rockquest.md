@@ -4,7 +4,7 @@ date: 2020-11-04T11:00:00.000Z
 ---
 ![](https://res.cloudinary.com/ruapehu-college/image/upload/v1621510290/Performing%20Arts/Smokefree_Rockquest_2016-2020_pxgbfv.jpg)
 
-The Smokefree Rockquest has become the lynchpin of events for secondary school musicians for over 30 years. Ruapehu College has entered this event consistenly since 2017 and enjoyed some great success as they share their songwriting and performing passions in competition against other secondary schools in the Whanganui region.
+The Smokefree Rockquest has become the lynchpin of events for secondary school musicians over the last 30 years. Ruapehu College has entered this event consistenly since 2017 and enjoyed some great success as they share their songwriting and performing passions in competition against other secondary schools in the Whanganui region.
 
 Musicians may enter as a solo act, duo, or band. Each act is required to compose and perform original compositions in the regional shows in an attempt to gain the opportunity to record a live video of material to be considered for the National Final. Many a-Rockquest competitior has gone on to forger careers in the music industry including Anika Moa, Bic Runga, Nesian Mystik, Evermore, Broods, and Alien Weaponry.
 
