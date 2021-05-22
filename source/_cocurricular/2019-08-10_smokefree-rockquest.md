@@ -10,6 +10,8 @@ Musicians may enter as a solo act, duo, or band. Each act is required to compose
 
 Thousands of students from across Aotearoa enter every year and the Whanganui region is growing rapidly. Our students work very hard to get to Rockquest, with many rehearsals and sessions outside of school hours. This commitment is what enables our students to succeed on this stage, in this event. Commitment, focus and dedication.
 
+NCEA students that enter the Smokefree Rockquest can be assessed for Group Performance, Solo Performance, Composition and Song-writing Standards at each level.
+
 **2017** Whanganui Regional Smokefree Rockquest: Solo/Duo - 2nd Place - **XAVIA**, Best Song Award - "Maze" by **etc, etc...**
 
 **2018** Whanganui Regional Smokefree Rockquest: ZM People's Choice Award - **etc, etc...**
