@@ -3,9 +3,10 @@ title: Cross Country
 ---
 Cross Country Champions
  
-No Cross Country Competition has been held in 2020 due to Covid restrictions.
- 
-Whanau Points: 
+School Cross Country
+Well done to everyone who participated, it was great to see everyone enjoying themselves.
+Well done to Matthew Smith and Ambrose Demchy and Izybel Graham for breaking previous school records.
+
 
  
 
