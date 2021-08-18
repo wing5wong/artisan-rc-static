@@ -8,7 +8,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
-          <a href="/news/covid-19-update-april-20/">Read our latest COVID-19 Updates</a>
+          <a href="/news/covid-19-update/">Read our latest COVID-19 Updates</a>
         </div>
       </div>
     </div>
