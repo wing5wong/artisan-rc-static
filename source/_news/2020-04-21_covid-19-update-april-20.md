@@ -9,4 +9,4 @@ All of New Zealand is in Alert Level 4
 
 School will remain closed until Monday 23 August.
 
-[Click here to download the Chromebook Loan Agreement](https://res.cloudinary.com/ruapehu-college/image/upload/v1629258951/Chromebook_Loan_Agreement_mzqq3n.pdf)
+If a chromebook is required to learn from home please complete the online form below <https://forms.gle/CDDFzEY13z724wEa7>
