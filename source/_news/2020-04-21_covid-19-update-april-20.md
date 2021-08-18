@@ -1,6 +1,6 @@
 ---
 extends: _layouts.post
-title: COVID-18 August 2021
+title: COVID-19 Update
 date: 2021-08-17T21:16:20.139Z
 ---
 COVID-19 Update 18 August 2021
