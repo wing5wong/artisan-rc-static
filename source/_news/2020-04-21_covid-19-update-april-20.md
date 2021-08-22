@@ -7,7 +7,7 @@ COVID-19 Update 18 August 2021
 
 All of New Zealand is in Alert Level 4
 
-School will remain closed until Monday 23 August.
+School will remain closed until Tuesday 24 August.
 
 COVID Alert Level 4 Update
 
