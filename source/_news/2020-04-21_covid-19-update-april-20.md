@@ -33,10 +33,6 @@ For video conferencing subjects, the contact person is Mrs Kendal Richards dista
 
 If students do not have access to a device, it is recommended to spend some time reading, going over subject notes, sketching, practising subject skills and getting some physical exercise. 
 
- If the lockdown continues for a longer period, it is my intention to make chromebooks available to students that need one. The Chromebook Loan Agreement will be required before any issue. 
-
-Please complete this by clicking on the following link (you will need to complete one for each studentin your family) <https://forms.gle/CDDFzEY13z724wEa7>
-
 Finally, please take care over the next few days. 
 
  Kia noho haumaru. Keep well, keep safe.
