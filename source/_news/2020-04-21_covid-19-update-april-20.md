@@ -3,13 +3,25 @@ extends: _layouts.post
 title: COVID-19 Update
 date: 2021-08-17T21:16:20.139Z
 ---
-COVID-19 Update 23 August 2021
+COVID-19 Update 27 August 2021
 
-All of New Zealand is in Alert Level 4
+**All of New Zealand is in Alert Level 4**
 
-School will remain closed until Friday 27 August.
+**School will remain closed until Wednesday 1 September.**
 
-COVID Alert Level 4 Update
+**EDUCATION at ALERT LEVEL 3**
+
+1. Students should continue to learn from home via Google Classroom or hard materials.
+
+2. School will be open for students whose parents or carers need to go to work. Email the school at office@ruapehu.school.nz if your child will be attending school from Wednesday. 1 September. 
+
+3. For further detail go to <https://covid19.govt.nz/alert-levels.../alert-level-3/>..., otherwise more information to follow on Monday.
+
+Take care whanau. Mā te Atua tātau e manaaki.
+
+
+
+**Other information**
 
 Kia ora koutou katoa,
 
