@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 title: COVID-19 Update
-date: 2021-08-17T21:16:20.139Z
+date: 2021-08-29T21:16:20.139Z
 ---
 **School will remain closed until we move to alert level 3 on Wednesday 1 September.**
 
