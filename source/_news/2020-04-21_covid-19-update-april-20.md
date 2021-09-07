@@ -24,3 +24,5 @@ Ngā mihi
 Marama Allen
 
 Principal
+
+![](https://res.cloudinary.com/ruapehu-college/image/upload/v1631056363/RC_COVID-19_Level_2_2021_Page_1_nwxssc.jpg)
