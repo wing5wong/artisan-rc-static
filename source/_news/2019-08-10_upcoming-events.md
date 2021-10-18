@@ -32,7 +32,3 @@ If you do not want your child to participate, or your child doesn't want to part
 ■ inform the school via text or phone call
 
 ■ your child can inform us or the researchers on the day
-
-
-
-For more detailed information, please see the information attached.
