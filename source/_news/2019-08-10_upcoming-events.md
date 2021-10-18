@@ -27,7 +27,7 @@ Lastly, it is optional to participate and your child can 'opt out' anytime durin
 
 If you do not want your child to participate, or your child doesn't want to participate, you can either:
 
-■ complete and return the 'opt out' form attached
+
 
 ■ inform the school via text or phone call
 
