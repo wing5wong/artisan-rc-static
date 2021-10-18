@@ -5,6 +5,10 @@ date: 2021-08-29T21:16:20.139Z
 ---
 Kia ora parents and caregivers
 
+![](https://res.cloudinary.com/ruapehu-college/image/upload/v1634522157/Parent_Letter_181021_cyzyp0.jpg)
+
+![]()
+
 At Alert Level 2 there is a very low risk of community transmission and it provides us with a lot more opportunities to engage and connect with others. However, there are still a number of public health requirements we all need to follow. 
 
 For us, all the required safety precautions for Alert Level 2 will be in place which includes following the hygiene recommendations. This means there will be a daily clean and disinfect of high-touch surfaces, encourage everyone to frequently wash their hands and cough and sneeze into their elbow.
