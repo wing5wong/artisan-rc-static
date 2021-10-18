@@ -3,8 +3,6 @@ extends: _layouts.events
 title: Upcoming Events
 date: 2021-10-18T22:15:09.752Z
 ---
-Dates and details for upcoming events at Ruapehu College
-
 Kia ora koutoa katoa
 
 
