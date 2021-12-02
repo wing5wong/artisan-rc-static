@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 title: COVID-19 Update
-date: 2021-08-29T21:16:20.139Z
+date: 2021-12-02T20:16:20.139Z
 ---
 Kia ora parents and caregivers
 
