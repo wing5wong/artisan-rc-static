@@ -117,11 +117,21 @@
                         </ul>
 
                     </li>
+                    
+ <li class="menu-has-children">
+                        <a href="/covid-response">Covid Response</a>
+                        <ul>
+                            @foreach($covid_response as $i)
+                            <li>
+                                <a href="{{$i->getPath()}}">{{$i->title}}</a>
+                            </li>
+                            @endforeach
+                        </ul>
 
+                    </li>
+                    
                     <li>
                         <a href="/contact">Contact Us</a>
-
-
                     </li>
 
                     <li class="social-links"><a href="https://www.facebook.com/RuapehuCollege/" class="facebook"><i class="fa fa-facebook"></i></a></li>
