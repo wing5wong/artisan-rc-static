@@ -117,6 +117,13 @@ return [
             'section' => 'postContent',
             'isPost' => true,
         ],
+        'covid_response' => [
+            'path' => 'covid-response/{-title}',
+            'extends' => '_layouts.post',
+            'sort' => '-date',
+            'section' => 'postContent',
+            'isPost' => true,
+        ],
     ],
     'excerpt' => function ($page, $limit = 250, $end = '...') {
         return $page->isPost
