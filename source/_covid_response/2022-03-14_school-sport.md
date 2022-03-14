@@ -1,6 +1,6 @@
 ---
 extends: _layouts.post
-title: 'School Sport '
+title: School Sport Under Covid
 date: 2022-03-14T02:05:29.799Z
 ---
 School sport changes
