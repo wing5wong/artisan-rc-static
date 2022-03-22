@@ -1,8 +1,8 @@
 ---
 title: Term Dates
 dates:
-  - end_date: 2021-04-15T12:00:00.000Z
-    start_date: 2021-02-01T23:53:50.593Z
+  - end_date: 2022-04-13T12:00:00.000Z
+    start_date: 2022-01-30T23:53:50.593Z
     title: Term 1
   - end_date: 2021-07-08T12:00:00.000Z
     start_date: 2021-05-03T00:56:58.086Z
