@@ -16,11 +16,11 @@ dates:
   - end_date: 2022-06-05T12:00:00.000Z
     start_date: 2022-06-05T12:00:00.000Z
     title: Queen's Birthday
-  - end_date: 2022-10-23T11:00:00.000Z
-    start_date: 2022-10-23T11:00:00.000Z
-    title: Labour Day
   - end_date: 2022-06-23T22:24:52.403Z
     start_date: 2022-06-23T22:24:52.388Z
     title: Matariki
+  - end_date: 2022-10-23T11:00:00.000Z
+    start_date: 2022-10-23T11:00:00.000Z
+    title: Labour Day
 ---
 
