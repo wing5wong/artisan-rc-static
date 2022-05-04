@@ -1,6 +1,6 @@
 ---
-title: Connor Halliday
-date: 2021-03-17T20:21:47.153Z
+title: Cameron Smith
+date: 2022-05-03T21:21:47.153Z
 position: Head Boy
 ---
 
