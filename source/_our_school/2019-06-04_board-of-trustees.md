@@ -13,22 +13,6 @@ The meeting dates are below and are held at school in the staff meeting room sta
 
 The dates are:
 
-Thursday 25th March
-
-April Holidays
-
-Thursday 27th May
-
-Thursday 24th June
-
-Thursday 29th July
-
-Thursday 26th August
-
-Thursday 30th September
-
-Thursday 28th October
-
-Thursday 25th November
+TBC
 
 Members who wish to speak before the board should email the Chair at chair@ruapehu.school.nz.
