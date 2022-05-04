@@ -1,9 +1,9 @@
 ---
-title: Mrs Nicole Boslem
-email: nboslem@ruapehu.school.nz
+title: Ms Rachael Houlihan
+email: rhoulihan@ruapehu.school.nz
 date: 2020-05-05T23:41:46.657Z
-roles: Teacher Aide
+roles: English Teacher
 departments:
-  - Support Staff
+  - Teaching Staff
 ---
 
