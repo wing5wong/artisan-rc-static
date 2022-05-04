@@ -20,3 +20,9 @@ Below is our four week school lunch menu for term two.
 ![](https://res.cloudinary.com/ruapehu-college/image/upload/v1651707991/Lunch_1_xhttrl.jpg)
 
 ![](https://res.cloudinary.com/ruapehu-college/image/upload/v1651707991/Lunch_2_nlsfm2.jpg)
+
+![](https://res.cloudinary.com/ruapehu-college/image/upload/v1651707991/Lunch_3_x756jh.jpg)
+
+![](https://res.cloudinary.com/ruapehu-college/image/upload/v1651707992/Lunch_4_u0rcdo.jpg)
+
+![]()
