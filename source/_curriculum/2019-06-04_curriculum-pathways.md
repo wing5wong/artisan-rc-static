@@ -1,6 +1,6 @@
 ---
 title: Curriculum Pathways
-date: 2019-06-04T10:31:53.550Z
+date: 2022-02-09T09:31:53.550Z
 ---
 Curriculum Pathways at Ruapehu College provides all students with options to pursue their vocational aspirations in any of the industry training sectors, either through university, a variety of other tertiary institutions, trades or straight into the workforce. Any subject not listed, can be offered through distance learning with video conferencing or the national correspondence school.
 
