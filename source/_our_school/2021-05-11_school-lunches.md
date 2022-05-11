@@ -11,7 +11,7 @@ As part of the food requirements, food allergens and restrictions due to religio
 
 Introducing our wonderful school lunch team, Bubba Wall, Christiane Te Riaki and Te Matauranga Muru who are making our student lunches. The students say they were really yummy.
 
-![](https://res.cloudinary.com/ruapehu-college/image/upload/v1620681560/IMG_8649_svs4xm.jpg)
+![](https://res.cloudinary.com/ruapehu-college/image/upload/v1652306078/DSC_2248_uxrzvf.jpg)
 
 **Menu**
 
