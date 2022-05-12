@@ -8,7 +8,6 @@ The year 9 programme of study at Ruapehu College is split between the core subje
 
 ## Core Subjects
 
-
 * English
 * Mathematics
 * Science
@@ -24,12 +23,11 @@ The year 9 programme of study at Ruapehu College is split between the core subje
 * Food Technology
 * Outdoor education
 
-
----
+- - -
 
 # Year 10 Curriculum
 
-The year 10 programme of study at Ruapehu College comprises six core subject, and two option courses, which the students study for the whole academic year. In year 10 there is an optional school camp in term 2 which takes place at one of the Hillart Outdoors Education Centres eitherTongariro or great Barrier Island.
+The year 10 programme of study at Ruapehu College comprises six core subject, and two option courses, which the students study for the whole academic year. In year 10 there is an optional school camp in term 2 which takes place at one of the Hillary Outdoors Education Centres either Tongariro or Great Barrier Island.
 
 ## Core Subjects
 
