@@ -4,7 +4,7 @@ date: 2019-06-04T10:19:25.786Z
 ---
 # Year 9 Curriculum
 
-The year 9 programme of study at Ruapehu College is split between the core subject, which the students study for the whole academic year and the option introduction courses, which are studied for a trimesters (thirds of the school year) each. Students also have a module of outdoor education which prepares them for  the year 9 camp which takes place at the Valhalla coastal retreat in Leigh, North of Auckland.
+The year 9 programme of study at Ruapehu College is split between the core subject, which the students study for the whole academic year and the option introduction courses, which are studied for a trimesters (thirds of the school year) each. Students also have a module of outdoor education which prepares them for the year 9 camp which takes place at the Valhalla coastal retreat in Leigh, North of Auckland.
 
 ## Core Subjects
 
