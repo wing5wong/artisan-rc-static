@@ -25,4 +25,4 @@ Following a curriculum pathway is very important to increase the likelihood for 
 
  Any further queries regarding subject selection, please do not hesitate to contact Marama Allen at the college.
 
-[Senior Subject Selection Booklet](https://res.cloudinary.com/ruapehu-college/image/upload/v1568584445/senior_curriculum_handbook_2019-2020_1_rwfpff.pdf)
+[Senior Subject Selection Booklet](https://res.cloudinary.com/ruapehu-college/image/upload/v1652407870/senior_curriculum_handbook_2021_yoifk1.pdf)
