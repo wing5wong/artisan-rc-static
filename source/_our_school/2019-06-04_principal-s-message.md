@@ -3,11 +3,11 @@ title: Principal's Message
 date: 2022-07-06T10:35:31.258Z
 image: ''
 ---
-Kia Ora Koutou.
+Kia Ora Koutou.                                                                                       
+
+![](https://res.cloudinary.com/ruapehu-college/image/upload/c_scale,h_527/v1657072078/20191213_132035_f7hqzp.jpg)
 
 At Ruapehu College we aim to empower young people through education, gifting them the skills and values to succeed in an ever changing world. 
-
-![](https://res.cloudinary.com/ruapehu-college/image/upload/c_scale,h_328/v1657072078/20191213_132035_f7hqzp.jpg)
 
 
 
@@ -40,5 +40,3 @@ Ki te tuohu koe me he maunga teitei
 Marama Allen
 
 ![]()
-
-![](https://res.cloudinary.com/ruapehu-college/image/upload/v1657072078/20191213_132035_f7hqzp.jpg)
