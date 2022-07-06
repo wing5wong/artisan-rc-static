@@ -7,6 +7,10 @@ Kia Ora Koutou.
 
 At Ruapehu College we aim to empower young people through education, gifting them the skills and values to succeed in an ever changing world. 
 
+![](https://res.cloudinary.com/ruapehu-college/image/upload/c_scale,h_776/v1657072078/20191213_132035_f7hqzp.jpg)
+
+
+
 
 
 As a boutique college of 200 students, we offer small class-sizes with personalized teaching by a team of subject-specialist educators, and a designated academic mentor that journeys alongside their students from year 9 to 13. Students’ learning programs are tailored to meet their interests and strengths, proposed career pathways with the opportunity to do industry courses, gateway industry-placements, scholarship examinations, and tertiary study. This is one of the reasons why our students consistently do well in achieving NCEA across all levels.
