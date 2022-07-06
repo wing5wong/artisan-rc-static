@@ -7,7 +7,7 @@ Kia Ora Koutou.
 
 At Ruapehu College we aim to empower young people through education, gifting them the skills and values to succeed in an ever changing world. 
 
-![](https://res.cloudinary.com/ruapehu-college/image/upload/c_scale,h_776/v1657072078/20191213_132035_f7hqzp.jpg)
+![](https://res.cloudinary.com/ruapehu-college/image/upload/c_scale,h_328/v1657072078/20191213_132035_f7hqzp.jpg)
 
 
 
