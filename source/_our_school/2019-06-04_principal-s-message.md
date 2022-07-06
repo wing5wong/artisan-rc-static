@@ -35,4 +35,6 @@ Ki te tuohu koe me he maunga teitei
 
 Marama Allen
 
-![](https://res.cloudinary.com/ruapehu-college/image/upload/v1657072078/20191213_132035_f7hqzp.jpg)
+![]()
+
+![](https://res.cloudinary.com/ruapehu-college/image/upload/c_scale,h_950/v1657072078/20191213_132035_f7hqzp.jpg)
