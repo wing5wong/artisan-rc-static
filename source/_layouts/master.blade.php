@@ -119,7 +119,7 @@
                     </li>
                     
  <li class="menu-has-children">
-                        <a href="/covid-response">Covid Response</a>
+                        <a href="/covid-response">Emergency Management</a>
                         <ul>
                             @foreach($covid_response as $i)
                             <li>
