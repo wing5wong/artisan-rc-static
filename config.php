@@ -117,8 +117,8 @@ return [
             'section' => 'postContent',
             'isPost' => true,
         ],
-        'covid_response' => [
-            'path' => 'covid-response/{-title}',
+        'emergency_management' => [
+            'path' => 'emergency-management/{-title}',
             'extends' => '_layouts.post',
             'sort' => '-date',
             'section' => 'postContent',

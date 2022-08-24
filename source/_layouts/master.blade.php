@@ -119,9 +119,9 @@
                     </li>
                     
  <li class="menu-has-children">
-                        <a href="/covid-response">Emergency Management</a>
+                        <a href="/emergency-management">Emergency Management</a>
                         <ul>
-                            @foreach($covid_response as $i)
+                            @foreach($emergency_management as $i)
                             <li>
                                 <a href="{{$i->getPath()}}">{{$i->title}}</a>
                             </li>
