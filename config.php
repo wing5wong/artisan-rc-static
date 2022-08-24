@@ -118,7 +118,10 @@ return [
             'isPost' => true,
         ],
         'emergency_management' => [
-            'path' => 'emergency-management/{-title}',
+            'path' => [
+                'covid_response' => 'covid-response/{-title}',
+                'emergency_management' => 'emergency-management/{-title}',
+            ],
             'extends' => '_layouts.post',
             'sort' => '-date',
             'section' => 'postContent',
