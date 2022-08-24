@@ -287,10 +287,10 @@ collections:
     - {label: "Image", name: "image", widget: "image", required: false}
     - {label: "Body", name: "body", widget: "text", required: false}
     
-  - name: "covid_response"
-    label: "COVID Responses"
-    label_singular: "Covid Response"
-    folder: "source/_covid_response"
+  - name: "emergency_management"
+    label: "Emergency Management"
+    label_singular: "Emergency Management"
+    folder: "source/_emergency_management"
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:

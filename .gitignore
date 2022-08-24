@@ -1,4 +1,5 @@
 /build_local/
+/build_dev/
 /build_staging/
 /build_production/
 /node_modules/
