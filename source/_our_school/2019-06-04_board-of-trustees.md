@@ -5,7 +5,7 @@ date: 2022-05-04T10:39:41.147Z
 ---
 The Ruapehu College Board of Trustees
 
-![](https://res.cloudinary.com/ruapehu-college/image/upload/v1661463549/BOT_ncfztj.jpg)
+![](https://res.cloudinary.com/ruapehu-college/image/upload/v1661463691/BOT_gjjeou.jpg)
 
 Our board of trustees meetings are open to the public, students, staff and whānau may attend. All welcome. 
 
