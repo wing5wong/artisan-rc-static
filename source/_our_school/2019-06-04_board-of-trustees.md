@@ -5,7 +5,7 @@ date: 2022-05-04T10:39:41.147Z
 ---
 The Ruapehu College Board of Trustees
 
-![](https://res.cloudinary.com/ruapehu-college/image/upload/v1615858162/IMG_6279_ilhgeo.jpg)
+![](https://res.cloudinary.com/ruapehu-college/image/upload/v1661463691/BOT_gjjeou.jpg)
 
 Our board of trustees meetings are open to the public, students, staff and whānau may attend. All welcome. 
 
@@ -26,9 +26,5 @@ Thursday 29 September
 Thursday 27 October
 
 Thursday 24 November
-
-
-
-
 
 Members who wish to speak before the board should email the Chair at chair@ruapehu.school.nz.

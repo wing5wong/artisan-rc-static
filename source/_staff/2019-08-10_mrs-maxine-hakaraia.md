@@ -2,7 +2,7 @@
 title: Mrs Maxine Hakaraia
 email: mhakaraia@ruapehu.school.nz
 date: 2019-08-10T04:14:02.864Z
-roles: 'Food Technology, Dean of Girls'
+roles: 'Food Technology, Year 10 Dean'
 departments:
   - Teaching Staff
 ---
