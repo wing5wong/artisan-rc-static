@@ -59,7 +59,7 @@
             <nav id="nav-menu-container">
                 <ul class="nav-menu">
                     <li class="menu-has-children">
-                        <a href="/our-school">Our School</a>
+                        <a href="/our-school">Our School / Tō Mātau Kura</a>
                         <ul>
                             @foreach($our_school as $s)
                             <li>
@@ -70,7 +70,7 @@
                     </li>
 
                     <li class="menu-has-children">
-                        <a href="/curriculum">Curriculum</a>
+                        <a href="/curriculum">Curriculum / Marautanga</a>
                         <ul>
                             @foreach($curriculum as $c)
                             <li>
@@ -82,7 +82,7 @@
                     </li>
 
                     <li class="menu-has-children">
-                        <a href="/enrolment" class="sf-with-ul">Enrolment</a>
+                        <a href="/enrolment" class="sf-with-ul">Enrolment / Whakaurunga</a>
                         <ul>
                             @foreach($enrolment as $e)
                             <li>
@@ -93,7 +93,7 @@
                     </li>
 
                     <li class="menu-has-children">
-                        <a href="https://kamar.ruapehu.school.nz/index.php/notices" class="sf-with-ul">Notices</a>
+                        <a href="https://kamar.ruapehu.school.nz/index.php/notices" class="sf-with-ul">Notices / Pānui</a>
                         <ul>
                             <li>
                                 <a href="/news/newsletters">Newsletters</a>
@@ -119,7 +119,7 @@
                     </li> -->
                     
  <li class="menu-has-children">
-                        <a href="/emergency-management">Emergency Management</a>
+                        <a href="/emergency-management">Emergency Management / Whakahaere Ohotata</a>
                         <ul>
                             @foreach($emergency_management as $i)
                             <li>
@@ -131,7 +131,7 @@
                     </li>
                     
                     <li>
-                        <a href="/contact">Contact Us</a>
+                        <a href="/contact">Contact Us / Whakapā mai</a>
                     </li>
 
                     <li class="social-links"><a href="https://www.facebook.com/RuapehuCollege/" class="facebook"><i class="fa fa-facebook"></i></a></li>
