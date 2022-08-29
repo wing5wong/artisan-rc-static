@@ -106,7 +106,7 @@
                             </li>
                         </ul>
                     </li>
-                    <li class="menu-has-children">
+                    <!-- <li class="menu-has-children">
                         <a href="/international">International</a>
                         <ul>
                             @foreach($international as $i)
@@ -116,7 +116,7 @@
                             @endforeach
                         </ul>
 
-                    </li>
+                    </li> -->
                     
  <li class="menu-has-children">
                         <a href="/emergency-management">Emergency Management</a>
