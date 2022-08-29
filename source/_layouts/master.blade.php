@@ -59,7 +59,7 @@
             <nav id="nav-menu-container">
                 <ul class="nav-menu">
                     <li class="menu-has-children">
-                        <a href="/our-school">Our School / Tō Mātau Kura</a>
+                        <a href="/our-school" style="text-align:center;">Our School<br>Tō Mātau Kura</a>
                         <ul>
                             @foreach($our_school as $s)
                             <li>
@@ -70,7 +70,7 @@
                     </li>
 
                     <li class="menu-has-children">
-                        <a href="/curriculum">Curriculum / Marautanga</a>
+                        <a href="/curriculum" style="text-align:center;">Curriculum<br>Marautanga</a>
                         <ul>
                             @foreach($curriculum as $c)
                             <li>
@@ -82,7 +82,7 @@
                     </li>
 
                     <li class="menu-has-children">
-                        <a href="/enrolment" class="sf-with-ul">Enrolment / Whakaurunga</a>
+                        <a href="/enrolment" class="sf-with-ul" style="text-align:center;">Enrolment<br>Whakaurunga</a>
                         <ul>
                             @foreach($enrolment as $e)
                             <li>
@@ -93,7 +93,7 @@
                     </li>
 
                     <li class="menu-has-children">
-                        <a href="https://kamar.ruapehu.school.nz/index.php/notices" class="sf-with-ul">Notices / Pānui</a>
+                        <a href="https://kamar.ruapehu.school.nz/index.php/notices" class="sf-with-ul" style="text-align:center;">Notices<br>Pānui</a>
                         <ul>
                             <li>
                                 <a href="/news/newsletters">Newsletters</a>
@@ -119,7 +119,7 @@
                     </li> -->
                     
  <li class="menu-has-children">
-                        <a href="/emergency-management">Emergency Management / Whakahaere Ohotata</a>
+                        <a href="/emergency-management" style="text-align:center;">Emergency Management<br>Whakahaere Ohotata</a>
                         <ul>
                             @foreach($emergency_management as $i)
                             <li>
@@ -131,7 +131,7 @@
                     </li>
                     
                     <li>
-                        <a href="/contact">Contact Us / Whakapā mai</a>
+                        <a href="/contact" style="text-align:center;">Contact Us<br>Whakapā mai</a>
                     </li>
 
                     <li class="social-links"><a href="https://www.facebook.com/RuapehuCollege/" class="facebook"><i class="fa fa-facebook"></i></a></li>
