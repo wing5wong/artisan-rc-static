@@ -1,6 +1,6 @@
 ---
 title: Examinations
-date: 2021-09-16T10:30:45.035Z
+date: 2022-11-20T11:00:00.000Z
 image: ''
 ---
 <https://www.nzqa.govt.nz/ncea/ncea-exams-and-portfolios/external/national-secondary-examinations-timetable/>
