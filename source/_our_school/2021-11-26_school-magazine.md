@@ -22,3 +22,7 @@ date: 2022-09-13T22:18:58.947Z
 [School Magazine 1991](https://res.cloudinary.com/ruapehu-college/image/upload/v1666220063/School_Magazine_1991_ksz27u.pdf)
 
 [School Magazine 1990](https://res.cloudinary.com/ruapehu-college/image/upload/v1666230857/School_Magazine_1990_xb2smp.pdf)
+
+[School Magazine 1984](https://res.cloudinary.com/ruapehu-college/image/upload/v1669322872/1984_School_Magazine_tpvzye.pdf)
+
+[School Magazine 1983](https://res.cloudinary.com/ruapehu-college/image/upload/v1669322852/1983_School_Magazine_c3npgi.pdf)
