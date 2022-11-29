@@ -11,6 +11,8 @@ date: 2022-09-13T22:18:58.947Z
 
 [School Magazine 2018](https://res.cloudinary.com/ruapehu-college/image/upload/v1669758317/RC_Magazine_2018_proof_L_a1ks3z.pdf)
 
+[School Magazine 2017](https://res.cloudinary.com/ruapehu-college/image/upload/v1669761606/School_Magazine_2017_combined_mjulxh.pdf)
+
 [School Magazine 2016](https://res.cloudinary.com/ruapehu-college/image/upload/v1669758080/Published_school_magazine_2016_reduced-compressed_we51yn.pdf)
 
 [School Magazine 2015](https://res.cloudinary.com/ruapehu-college/image/upload/v1669761099/School_Magazine_2015_combined_itpask.pdf)
