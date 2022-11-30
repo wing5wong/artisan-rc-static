@@ -19,6 +19,8 @@ date: 2022-09-13T22:18:58.947Z
 
 [School Magazine 2015](https://res.cloudinary.com/ruapehu-college/image/upload/v1669761099/School_Magazine_2015_combined_itpask.pdf)
 
+[School Magazine 2014](https://res.cloudinary.com/ruapehu-college/image/upload/v1669769590/School_magazine_2014_Combined_klhsjf.pdf)
+
 [School Magazine 2013](https://res.cloudinary.com/ruapehu-college/image/upload/v1669756872/Published_school_magazine_2013_ufsvlg.pdf)
 
 [School Magazine 1998](https://res.cloudinary.com/ruapehu-college/image/upload/v1663123508/School_Magazine_1998_f8jaiq.pdf)
