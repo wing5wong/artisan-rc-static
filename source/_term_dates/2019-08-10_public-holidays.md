@@ -1,14 +1,14 @@
 ---
 title: Public Holidays
 dates:
-  - end_date: 2022-02-06T11:00:00.000Z
-    start_date: 2022-02-06T11:00:00.000Z
+  - end_date: 2023-02-05T11:00:00.000Z
+    start_date: 2023-02-05T11:00:00.000Z
     title: Waitangi Day (Observed)
-  - end_date: 2022-04-14T12:00:00.000Z
-    start_date: 2022-04-14T12:00:00.000Z
+  - end_date: 2023-04-06T12:00:00.000Z
+    start_date: 2023-04-06T12:00:00.000Z
     title: Good Friday
-  - end_date: 2022-04-17T12:00:00.000Z
-    start_date: 2022-04-17T12:00:00.000Z
+  - end_date: 2023-04-09T12:00:00.000Z
+    start_date: 2023-04-09T12:00:00.000Z
     title: Easter Monday
   - end_date: 2022-04-24T12:00:00.000Z
     start_date: 2022-04-24T12:00:00.000Z
