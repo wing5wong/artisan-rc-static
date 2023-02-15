@@ -72,11 +72,15 @@
                     <li class="menu-has-children">
                         <a href="/curriculum" style="text-align:center;">Curriculum<br>Marautanga</a>
                         <ul>
+                        <li>
+                        <a href="https://sites.google.com/ruapehu.school.nz/academicmentoring/home">Academic Mentoring</a>
+                        </li>
                             @foreach($curriculum as $c)
                             <li>
                                 <a href="{{$c->getPath()}}">{{$c->title}}</a>
                             </li>
                             @endforeach
+                            
                         </ul>
 
                     </li>
