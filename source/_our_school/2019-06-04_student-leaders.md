@@ -6,4 +6,4 @@ image: ''
 ---
 Student Leaders 2023
 
-![](https://res.cloudinary.com/ruapehu-college/image/upload/v1676500742/DSC_2134_hbzfkk.jpg)
+![](https://res.cloudinary.com/ruapehu-college/image/upload/v1676500755/Leaders_youv1y.jpg)
