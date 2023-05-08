@@ -1,6 +1,6 @@
 ---
 title: Laurenson Trust
-date: 2019-06-04T10:42:09.129Z
+date: 2023-05-09T10:42:09.129Z
 ---
 History
 
@@ -18,4 +18,4 @@ Students who compete in individual sports and travel outside of the district may
 
 Application forms are on the Ruapehu College website and these can be completed and emailed to slaurensonkune@gmail.com or returned either to the school office or to one of the Trust members. The Trust endeavours to meet once per term.
 
-[Laurenson Trust Application Form](https://res.cloudinary.com/ruapehu-college/image/upload/v1580763191/Laurenson_Trust_Application_2020_l2udbo.pdf)
+[Laurenson Trust Application Form](https://res.cloudinary.com/ruapehu-college/image/upload/v1683580943/Laurenson_Trust_Application_fijrsc.pdf)
