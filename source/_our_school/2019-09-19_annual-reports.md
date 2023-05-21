@@ -1,6 +1,6 @@
 ---
 extends: _layouts.post
-title: Annual Reports
+title: Hall Hire
 date: 2022-07-03T12:00:00.000Z
 ---
-[Silks Audit and End of Year Financial Report 2021](https://res.cloudinary.com/ruapehu-college/image/upload/v1656889723/Ruapehu_College_-_2021_Audited_Financial_Statement_1_g6t0yd.pdf)
+[ To hire our school hall please click here to complete the hire form](https://forms.gle/TbBoiN3tZLZ9isap8)
