@@ -1,6 +1,6 @@
 ---
-title: Angelique Bam
-date: 2019-08-10T03:36:15.358Z
+title: Helena Burns
+date: 2022-08-09T12:00:00.000Z
 responsibilities:
   - Staff Representative
   - Member
