@@ -13,22 +13,14 @@ The meeting dates are below and are held at school in the staff meeting room sta
 
 The dates are:
 
-Thursday 26 May
+Thursday 27 July
 
-Thursday 30 June
+Thursday 24 August
 
-Thursday 28 July
+Thursday 26 October
 
-Thursday 25 August
-
-Thursday 29 September
-
-Thursday 27 October
-
-Thursday 24 November
+Thursday 23 November
 
 Members who wish to speak before the board should email the Chair at chair@ruapehu.school.nz.
-
-
 
 [To view the Annual Report Click here](https://res.cloudinary.com/ruapehu-college/image/upload/v1656889723/Ruapehu_College_-_2021_Audited_Financial_Statement_1_g6t0yd.pdf)
