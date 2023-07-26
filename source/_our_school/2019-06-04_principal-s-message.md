@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-date: 2022-08-03T10:35:31.258Z
+date: 2023-07-26T10:35:31.258Z
 image: ''
 ---
 Kia Ora Koutou.                                                                                       
