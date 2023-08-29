@@ -1,6 +1,6 @@
 ---
 title: Examinations
-date: 2022-11-20T11:00:00.000Z
+date: 2023-08-28T12:00:00.000Z
 image: ''
 ---
 SENIOR EXAMINATIONS:
