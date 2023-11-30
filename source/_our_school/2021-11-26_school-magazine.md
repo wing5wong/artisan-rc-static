@@ -3,6 +3,8 @@ extends: _layouts.post
 title: School Magazines
 date: 2022-09-13T22:18:58.947Z
 ---
+[School Magazine 2023](https://res.cloudinary.com/ruapehu-college/image/upload/v1701306989/Ruapehu_College_School_Magazine_2023_compressed_q0vsrc.pdf)
+
 [School Magazine 2022](https://res.cloudinary.com/ruapehu-college/image/upload/v1670451179/School_Magazine_2022.1_reduced_compressed_vv5oma.pdf)
 
 [School Magazine 2021](https://res.cloudinary.com/ruapehu-college/image/upload/v1637875296/2021_School_Magazine_small_mxtpyp.pdf)
