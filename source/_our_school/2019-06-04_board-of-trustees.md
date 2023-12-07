@@ -23,4 +23,4 @@ Thursday 23 November
 
 Members who wish to speak before the board should email the Chair at chair@ruapehu.school.nz.
 
-[To view the Annual Report Click here](https://res.cloudinary.com/ruapehu-college/image/upload/v1656889723/Ruapehu_College_-_2021_Audited_Financial_Statement_1_g6t0yd.pdf)
+[To view the Annual Report Click here](https://res.cloudinary.com/ruapehu-college/image/upload/v1701917819/2022_Ruapehu_College_Audited_Financial_Statements_ymo02f.pdf)
