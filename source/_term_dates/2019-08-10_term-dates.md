@@ -7,11 +7,11 @@ dates:
   - end_date: 2024-07-04T12:00:00.000Z
     start_date: 2024-04-28T12:00:00.000Z
     title: Term 2
-  - end_date: 2023-09-22T00:58:43.330Z
-    start_date: 2023-07-16T12:00:00.000Z
+  - end_date: 2024-09-26T12:00:00.000Z
+    start_date: 2024-07-21T12:00:00.000Z
     title: Term 3
-  - end_date: 2023-12-07T11:00:00.000Z
-    start_date: 2023-10-09T00:01:06.263Z
+  - end_date: 2024-12-12T11:00:00.000Z
+    start_date: 2024-10-13T11:00:00.000Z
     title: Term 4
 ---
 
