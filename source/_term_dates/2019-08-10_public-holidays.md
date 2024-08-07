@@ -3,7 +3,7 @@ title: Public Holidays
 dates:
   - end_date: 2024-02-05T11:00:00.000Z
     start_date: 2024-02-05T11:00:00.000Z
-    title: Waitangi Day (Observed)
+    title: Waitangi Day
   - end_date: 2024-03-28T11:00:00.000Z
     start_date: 2024-03-28T11:00:00.000Z
     title: Good Friday
