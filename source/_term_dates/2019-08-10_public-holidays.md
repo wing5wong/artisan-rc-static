@@ -4,8 +4,8 @@ dates:
   - end_date: 2024-02-05T11:00:00.000Z
     start_date: 2024-02-05T11:00:00.000Z
     title: Waitangi Day (Observed)
-  - end_date: 2023-04-06T12:00:00.000Z
-    start_date: 2023-04-06T12:00:00.000Z
+  - end_date: 2024-03-28T11:00:00.000Z
+    start_date: 2024-03-28T11:00:00.000Z
     title: Good Friday
   - end_date: 2023-04-09T12:00:00.000Z
     start_date: 2023-04-09T12:00:00.000Z
