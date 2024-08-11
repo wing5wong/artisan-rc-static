@@ -1,6 +1,6 @@
 ---
-title: Shane Muru-Albert
-date: 2022-05-04T02:53:16.239Z
+title: Kodo Drayton
+date: 2024-05-01T12:00:00.000Z
 position: Deputy Head Boy
 ---
 
