@@ -160,7 +160,9 @@
 
                     <div class="col-lg-3 col-md-6 footer-info">
                         <h3>Ruapehu College</h3>
-                        Kia Ora Koutou. Ruapehu College is set at the foot of the beautiful Mt Ruapehu and the location defines who we are. Our students continue to seek knowledge so they can head into the future with skills that will ensure success. Whaia e koe te iti kahurangi; ki te tuohu koe, me he maunga teitei. Seek the treasure you value most deeply: if you bow your head, let it be to the lofty mountain.
+                        <h4>Vision Statement</h4>
+
+Raphuhia Kote Mātauranga – Ruapehu College pursues excellence. Excellence in character, in governance, in teaching, in learning, and in achievement as we aim to grow learners who will make their difference in our community and the world.
                     </div>
 
                     <div class="col-lg-3 col-md-6 footer-links">
