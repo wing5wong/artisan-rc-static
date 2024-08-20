@@ -169,7 +169,7 @@ Raphuhia Kote Mātauranga – Ruapehu College pursues excellence. Excellence in 
                         <h4>Useful Links</h4>
                         <ul>
                             <li><i class="ion-ios-arrow-right"></i> <a href="/">Home</a></li>
-                            <li><i class="ion-ios-arrow-right"></i> <a href="https://kamar.ruapehu.school.nz/index.php">KAMAR Portal</a></li>
+                            <li><i class="ion-ios-arrow-right"></i> <a href="https://ruapehu.school.kiwi">KAMAR Portal</a></li>
                         </ul>
                     </div>
 
