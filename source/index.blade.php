@@ -60,13 +60,13 @@
 
         <div class="col-lg-4 box">
           <i class="ion-ios-bookmarks-outline"></i>
-          <h4 class="title"><a href="https://kamar.ruapehu.school.nz/index.php/notices">Notices</a></h4>
+          <h4 class="title"><a href="https://ruapehu.school.kiwi/notices">Notices</a></h4>
           <p class="description">All the latest notices for Ruapehu College</p>
         </div>
 
         <div class="col-lg-4 box box-bg">
           <i class="ion-ios-stopwatch-outline"></i>
-          <h4 class="title"><a href="https://kamar.ruapehu.school.nz/index.php/calendar">Events</a></h4>
+          <h4 class="title"><a href="https://ruapehu.school.kiwi/calendar">Events</a></h4>
           <p class="description">Whats coming up at Ruapehu College</p>
         </div>
 
