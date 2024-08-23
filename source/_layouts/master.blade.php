@@ -97,7 +97,7 @@
                     </li>
 
                     <li class="menu-has-children">
-                        <a href="https://kamar.ruapehu.school.nz/index.php/notices" class="sf-with-ul" style="text-align:center;">Notices<br>Pānui</a>
+                        <a href="https://ruapehu.school.kiwi/notices" class="sf-with-ul" style="text-align:center;">Notices<br>Pānui</a>
                         <ul>
                             <li>
                                 <a href="/news/newsletters">Newsletters</a>
@@ -106,7 +106,7 @@
                                 <a href="https://kamar.ruapehu.school.nz/index.php/">Events</a>
                             </li> -->
                             <li>
-                                <a href="https://kamar.ruapehu.school.nz/index.php/calendar">Calendar</a>
+                                <a href="https://ruapehu.school.kiwi/calendar">Calendar</a>
                             </li>
                         </ul>
                     </li>
