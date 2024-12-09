@@ -19,8 +19,8 @@ dates:
   - end_date: 2025-06-19T12:00:00.000Z
     start_date: 2025-06-19T12:00:00.000Z
     title: Matariki
-  - end_date: 2024-10-27T11:00:00.000Z
-    start_date: 2024-10-27T11:00:00.000Z
+  - end_date: 2025-10-26T11:00:00.000Z
+    start_date: 2025-10-26T11:00:00.000Z
     title: Labour Day
 ---
 
