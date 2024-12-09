@@ -7,8 +7,8 @@ dates:
   - end_date: 2025-04-17T12:00:00.000Z
     start_date: 2025-04-17T12:00:00.000Z
     title: Good Friday
-  - end_date: 2024-03-31T11:00:00.000Z
-    start_date: 2024-03-31T11:00:00.000Z
+  - end_date: 2025-04-20T12:00:00.000Z
+    start_date: 2025-04-20T12:00:00.000Z
     title: Easter Monday
   - end_date: 2024-04-24T12:00:00.000Z
     start_date: 2024-04-24T12:00:00.000Z
