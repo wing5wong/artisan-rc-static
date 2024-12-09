@@ -16,8 +16,8 @@ dates:
   - end_date: 2025-06-01T12:00:00.000Z
     start_date: 2025-06-01T12:00:00.000Z
     title: King's Birthday
-  - end_date: 2024-06-27T12:00:00.000Z
-    start_date: 2024-06-27T12:00:00.000Z
+  - end_date: 2025-06-19T12:00:00.000Z
+    start_date: 2025-06-19T12:00:00.000Z
     title: Matariki
   - end_date: 2024-10-27T11:00:00.000Z
     start_date: 2024-10-27T11:00:00.000Z
