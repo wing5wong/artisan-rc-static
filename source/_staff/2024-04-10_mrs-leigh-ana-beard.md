@@ -1,8 +1,8 @@
 ---
-title: Mrs Leigh-ana Beard
-email: lbeard@ruapehu.school.nz
+title: Mr Innocent Mahlatini
+email: imahlatini@ruapehu.school.nz
 date: 2024-04-09T23:20:00.916Z
-roles: PE Teacher. SST Teacher
+roles: 'Science Teacher, Ag Hort Teacher'
 departments:
   - Teaching Staff
 ---
