@@ -1,5 +1,5 @@
 ---
-title: Duane Dixon
+title: Mr Duane Dixon
 email: ddixon@ruapehu.school.nz
 date: 2024-08-09T12:00:00.000Z
 roles: Design Technology
