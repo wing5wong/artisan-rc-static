@@ -10,3 +10,4 @@ date: 2025-05-12T00:21:19.834Z
 5. [T'leya Wood](https://drive.google.com/file/d/1sXsubFaz8FaeVvV-bvNfC3LtegwBBMcq/view?usp=sharing)
 6. [Te Matau O Te Rangi Allen](https://drive.google.com/file/d/1EcVp6aRfy3N3zKN-NZlEJu-mXqGmliSW/view?usp=sharing)
 7. [Charly Hika-Wright](https://drive.google.com/file/d/1xEGFkPT0tgcI4L3cbSpQyQCbWUVIpYdU/view?usp=sharing)
+8. [Catherine Pakai-Dewes](https://drive.google.com/file/d/1j5igxlKn7IzPeWoWq0zEcEZxQ4qRlPq7/view?usp=sharing)
