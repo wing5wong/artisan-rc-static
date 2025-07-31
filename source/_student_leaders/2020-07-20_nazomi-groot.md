@@ -1,6 +1,6 @@
 ---
-title: Kodo Drayton
-date: 2024-05-01T12:00:00.000Z
-position: Deputy Head Boy
+title: Stirling Elers
+date: 2025-02-01T11:00:00.000Z
+position: Deputy Head Girl
 ---
 
