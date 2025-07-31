@@ -1,6 +1,6 @@
 ---
-title: Haeley Perkins-Tamatea
-date: 2023-12-31T11:00:00.000Z
+title: Hayley Moore
+date: 2025-02-01T11:00:00.000Z
 position: Deputy Head Girl
 ---
 
