@@ -11,3 +11,4 @@ date: 2025-05-12T00:21:19.834Z
 6. [Te Matau O Te Rangi Allen](https://drive.google.com/file/d/1EcVp6aRfy3N3zKN-NZlEJu-mXqGmliSW/view?usp=sharing)
 7. [Charly Hika-Wright](https://drive.google.com/file/d/1xEGFkPT0tgcI4L3cbSpQyQCbWUVIpYdU/view?usp=sharing)
 8. [Catherine Pakai-Dewes](https://drive.google.com/file/d/1j5igxlKn7IzPeWoWq0zEcEZxQ4qRlPq7/view?usp=sharing)
+9. [Hezakaya Metekingi](https://drive.google.com/file/d/1vanG4uRk3Qic0-wQ8vItKWNY9Yy_Z6uO/view?usp=sharing)
