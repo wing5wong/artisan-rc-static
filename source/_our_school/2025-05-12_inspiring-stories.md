@@ -12,3 +12,4 @@ date: 2025-05-12T00:21:19.834Z
 7. [Charly Hika-Wright](https://drive.google.com/file/d/1xEGFkPT0tgcI4L3cbSpQyQCbWUVIpYdU/view?usp=sharing)
 8. [Catherine Pakai-Dewes](https://drive.google.com/file/d/1j5igxlKn7IzPeWoWq0zEcEZxQ4qRlPq7/view?usp=sharing)
 9. [Hezakaya Metekingi](https://drive.google.com/file/d/1vanG4uRk3Qic0-wQ8vItKWNY9Yy_Z6uO/view?usp=sharing)
+10. [Kataraina Hakaraia](https://drive.google.com/file/d/1qoD3dhb-uCY-021Yy9O_9Did5cNuchNP/view?usp=drive_link)
