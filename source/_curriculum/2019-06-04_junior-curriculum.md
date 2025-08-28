@@ -1,6 +1,6 @@
 ---
 title: Junior Curriculum
-date: 2019-06-04T10:19:25.786Z
+date: 2025-08-27T12:00:00.000Z
 ---
 # Year 9 Curriculum
 
