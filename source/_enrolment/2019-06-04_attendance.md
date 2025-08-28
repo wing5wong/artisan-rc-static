@@ -1,6 +1,6 @@
 ---
 title: Attendance
-date: 2019-06-04T10:18:38.511Z
+date: 2025-08-27T12:00:00.000Z
 ---
 Parents can notify non-attendance at school via 4 channels:
 
