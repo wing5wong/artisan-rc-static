@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 title: Subject Selection
-date: 2019-09-15T21:50:51.885Z
+date: 2025-08-27T12:00:00.000Z
 ---
 SUBJECT SELECTION 
 
