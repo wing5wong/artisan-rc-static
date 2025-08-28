@@ -1,7 +1,7 @@
 ---
 extends: _layouts.board_of_trustees
 title: Board of Trustees
-date: 2022-05-04T10:39:41.147Z
+date: 2025-08-27T12:00:00.000Z
 ---
 The Ruapehu College Board of Trustees
 
