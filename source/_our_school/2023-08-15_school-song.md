@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 title: School Song
-date: 2023-08-14T22:49:55.327Z
+date: 2025-08-27T12:00:00.000Z
 ---
 RAPUHIA KOTE MATAURANGA
 
