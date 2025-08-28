@@ -1,6 +1,6 @@
 ---
 title: 'Production '
-date: 2019-08-10T11:37:39.784Z
+date: 2025-08-27T12:00:00.000Z
 ---
 ![](https://res.cloudinary.com/ruapehu-college/image/upload/v1621510290/Performing%20Arts/PRODUCTIONS_-_Mollie_TAAFT_ATWAV_nyxjh3.jpg)
 
