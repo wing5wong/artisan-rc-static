@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-date: 2023-07-26T10:35:31.258Z
+date: 2025-08-27T12:00:00.000Z
 image: ''
 ---
 At Ruapehu College we aim to empower young people through education by gifting them the skills and values to succeed in an ever changing world.
