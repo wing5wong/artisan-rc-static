@@ -1,6 +1,6 @@
 ---
 title: Laurenson Trust
-date: 2023-05-09T10:42:09.129Z
+date: 2025-08-27T12:00:00.000Z
 ---
 History
 
