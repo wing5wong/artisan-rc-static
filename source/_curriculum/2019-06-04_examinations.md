@@ -3,7 +3,7 @@ title: Examinations
 date: 2025-08-27T12:00:00.000Z
 image: ''
 ---
-![](https://res.cloudinary.com/ruapehu-college/image/upload/v1725232753/Exam_Timetable_x6mf5s.jpg)
+![](https://res.cloudinary.com/ruapehu-college/image/upload/v1756351669/Benchmark_Exams_2025_h5p4vt.jpg)
 
 JUNIOR EXAMINATIONS:
 
