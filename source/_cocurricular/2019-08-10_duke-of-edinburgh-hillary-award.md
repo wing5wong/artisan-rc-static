@@ -1,6 +1,6 @@
 ---
 title: Performing Arts Rationale
-date: 2019-08-10T11:38:07.482Z
+date: 2025-08-28T11:38:07.482Z
 ---
 **Why study the Performing Arts?**
 
