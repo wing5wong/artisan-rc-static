@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 title: Vacancies
-date: 2023-07-16T23:28:52.363Z
+date: 2025-08-27T12:00:00.000Z
 ---
 [Click here to see our staff housing information.](https://res.cloudinary.com/ruapehu-college/image/upload/v1659483075/Staff_Housing_1_tesptd.pdf)
 
