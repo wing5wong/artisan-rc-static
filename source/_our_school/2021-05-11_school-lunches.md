@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 title: School Lunches
-date: 2022-05-02T12:00:00.000Z
+date: 2025-08-27T12:00:00.000Z
 ---
 Ruapehu College is pleased to announce that it will be offering a free and healthy lunch on each school day for every student enrolled for 2021. The food provided will meet the Ministry of Health Food Guidelines and the Food Act 2014. The college will also actively work towards a zero-waste policy with a waste management plan that aims to reduce, reuse and recycle.
 
