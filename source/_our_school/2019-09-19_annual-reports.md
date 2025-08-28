@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 title: Facility Hire
-date: 2022-07-03T12:00:00.000Z
+date: 2025-08-27T12:00:00.000Z
 ---
 [To hire the Gym please click here and complete this form](https://form.jotform.com/251628852802056)
 
