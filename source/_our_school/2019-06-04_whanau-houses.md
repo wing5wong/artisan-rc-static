@@ -1,6 +1,6 @@
 ---
 title: Whanau/Houses
-date: 2019-06-04T10:42:38.846Z
+date: 2025-08-28T10:42:38.846Z
 ---
 All students at Ruapehu College are assigned to a whanau group upon their arrival in year 9. Siblings are usually placed in the same Whanau, and students who have had previous family connections with one of the whanau will be placed there.
 
