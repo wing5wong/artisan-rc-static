@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 title: Inspiring stories
-date: 2025-05-12T00:21:19.834Z
+date: 2025-08-27T12:00:00.000Z
 ---
 1. [Dylan Story ](https://drive.google.com/file/d/11Maq_x-c47FI_3KkjMKbsqWm3Ohmxbl9/view?usp=sharing)
 2. [Justice-Rose Dennison](https://drive.google.com/file/d/1_W5bnetLVcUWz9S3w5bgUMzGYtqapa6d/view?usp=sharing)
