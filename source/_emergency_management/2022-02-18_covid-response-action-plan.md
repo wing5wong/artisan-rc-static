@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 title: Our latest cellphone and personal digital device information
-date: 2022-02-25T10:49:39.091Z
+date: 2025-08-27T12:00:00.000Z
 ---
 Click on the following to view
 
