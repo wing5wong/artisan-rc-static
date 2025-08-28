@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 title: 'Emergency Management '
-date: 2022-08-28T22:07:02.907Z
+date: 2025-08-27T12:00:00.000Z
 ---
 [Emergency Management Plan](https://res.cloudinary.com/ruapehu-college/image/upload/v1678830423/RC_Emergency_Management_Plan_2023_dairsw.pdf)
 
