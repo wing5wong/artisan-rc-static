@@ -1,6 +1,6 @@
 ---
 title: Snow Academy
-date: 2019-06-04T10:22:54.637Z
+date: 2025-08-27T12:00:00.000Z
 ---
 SNOW SPORTS: Ruapehu College students get the opportunity to go up the mountain during throughout the year and particularly during the ski season. 
 
