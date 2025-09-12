@@ -71,7 +71,7 @@ principal@ruapehu.school.nz
 
 
 
-Teacher of Te Reo Māori
+**Teacher of Te Reo Māori**
 
 
 
