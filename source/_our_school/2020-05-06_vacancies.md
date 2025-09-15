@@ -45,8 +45,6 @@ English
 
 Closes 24 October  2025
 
-Vacancy reference #: 1HAjut
-
 Ruapehu College is based in Ohakune at the foothills of Koro Ruapehu and surrounded by the beautiful landscape of the Central Plateau offering a unique outdoor lifestyle. Skiing, mountain biking, tramping and camping are all on the doorstep.  We are searching for a teacher who is a agentic, aspiring, and visionary person. Beginner teachers are welcome to apply.
 
 The position includes teaching junior and senior English, and being part of a team to lift and develop the literacy capability for all our students. 
