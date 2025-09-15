@@ -43,7 +43,7 @@ English
 
   Suitable for beginning teachers
 
-Closes 28 November 2024
+Closes 24 October  2025
 
 Vacancy reference #: 1HAjut
 
