@@ -17,7 +17,7 @@ Suitable for beginning teachers
 
 We are seeking a teacher who is an enthusiastic and effective classroom teacher. Please state your supportive subjects.
 
- 26 October 2025.
+ Applications close 26 October 2025.
 
 How to apply
 
