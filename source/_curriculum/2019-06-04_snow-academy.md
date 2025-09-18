@@ -8,7 +8,7 @@ We offer year 9 and 10 ski days every year which gives every student an opportun
 
 Students who take senior PE or Outdoor education classes as an option are also given opportunity to be up the Mountain during winter on a weekly basis.
 
-Students at Ruapehu College have the opportunity to participate in the Snow Academy. Students in the snow academy spend one day a week on the mountain recieving coaching and getting the oppertunity to hone their ski or board skills.
+Students at Ruapehu College have the opportunity to participate in the Snow Academy. Students in the snow academy spend one day a week on the mountain receiving coaching and getting the opportunity to hone their ski or board skills.
 
 Ruapehu College is proud to host both the North Island Secondary Schools Skiing and Snowboarding competitions.
 
