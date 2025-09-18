@@ -6,13 +6,19 @@ date: 2025-08-27T12:00:00.000Z
 
 The year 9 programme of study at Ruapehu College is split between the core subject, which the students study for the whole academic year and the option introduction courses, which are studied for a trimesters (thirds of the school year) each. 
 
+## Core Subjects
+
 * English
 * Mathematics
 * Science
 * Social Studies
 * Physical Education and Health
 * Digital Technology
-* Option Tasters
+
+
+
+## Option Tasters
+
 * Performing Arts
 * Visual Arts
 * Te Reo Māori
@@ -35,7 +41,11 @@ The year 10 programme of study at Ruapehu College comprises six core subject, an
 * Social Studies
 * Physical Education and Health
 * Digital Technology
-* Option Subjects
+
+
+
+## Option Subjects
+
 * Te Reo Māori
 * Foreign Language
 * Resistant Materials
