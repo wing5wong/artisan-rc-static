@@ -17,7 +17,7 @@ The year 9 programme of study at Ruapehu College is split between the core subje
 * Option Tasters
 * Performing Arts
 * Visual Arts
-* Te Reo Maori
+* Te Reo Māori
 * Resistant Materials
 * Textiles Technology
 * Food Technology
@@ -38,7 +38,7 @@ The year 10 programme of study at Ruapehu College comprises six core subject, an
 * Physical Education and Health
 * Digital Technology
 * Option Subjects
-* Te Reo Maori
+* Te Reo Māori
 * Foreign Language
 * Resistant Materials
 * Textile Technology
