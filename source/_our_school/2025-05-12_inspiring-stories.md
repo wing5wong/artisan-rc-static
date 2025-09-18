@@ -13,7 +13,19 @@ Stories of belonging, shared by iwi leaders, focus on people and place. Stories 
 
 Although this resource includes prescribed lesson plans, this resource is designed to be used flexibly and we encourage educators to tailor lessons to best suit the needs of their students, classes, and learning objectives.
 
-\*The Habits of Mind are 16 thought behaviours and dispositions that aid one’s capacity to both think on multiple levels as well as confront problems with no easy solution. For further information and additional resources on the Habits of Mind, see www.habitsofmindinstitute.org. AcknowledgementsThank you to the following individuals and organisations who have made this resource possible. Alumni:Iwi leaders:Organisations:.INSPIRING STORIES Alumni and iwi leaders’ stories of belonging, potential, and the Habits of Mind to inspire and encourage our learners.
+\*The Habits of Mind are 16 thought behaviours and dispositions that aid one’s capacity to both think on multiple levels as well as confront problems with no easy solution. For further information and additional resources on the Habits of Mind, see www.habitsofmindinstitute.org. 
+
+Acknowledgements
+
+Thank you to the following individuals and organisations who have made this resource possible. 
+
+Alumni:
+
+Iwi leaders:
+
+Organisations:
+
+INSPIRING STORIES Alumni and iwi leaders’ stories of belonging, potential, and the Habits of Mind to inspire and encourage our learners.
 
 1. [Dylan Story](https://drive.google.com/file/d/11Maq_x-c47FI_3KkjMKbsqWm3Ohmxbl9/view?usp=sharing)
 2. [Justice-Rose Dennison](https://drive.google.com/file/d/1_W5bnetLVcUWz9S3w5bgUMzGYtqapa6d/view?usp=sharing)
