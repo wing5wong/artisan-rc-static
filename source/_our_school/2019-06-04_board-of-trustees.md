@@ -1,7 +1,7 @@
 ---
 extends: _layouts.board_of_trustees
 title: School Board
-date: 2025-08-27T12:00:00.000Z
+date: 2025-09-17T12:00:00.000Z
 ---
 The Ruapehu College School Board
 
