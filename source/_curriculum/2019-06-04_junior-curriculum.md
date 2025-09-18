@@ -49,7 +49,7 @@ The year 10 programme of study at Ruapehu College comprises six core subject, an
 * Te Reo Māori
 * Foreign Language
 * Resistant Materials
-* Textile Technology
+* Textiles Technology
 * Food Technology
 * Visual Arts
 * Performing Arts
