@@ -82,7 +82,6 @@
                             @endforeach
                             
                         </ul>
-
                     </li>
 
                     <li class="menu-has-children">

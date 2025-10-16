@@ -20,21 +20,13 @@
             <div class="col">
                 @yield('postContent')
 
-
-                @foreach(["Principal","Presiding Member","Finance", "Health and Safety", "Discipline", "Property","Staff Representative", "Student Representative","Iwi Representative","Secretary","Member"] as $group)
-                <h2>{{ $group }}</h2>
-                    <ul class="list-group list-group-flush mb-5">
-                    @foreach($board_of_trustees->filter(function($b) use ($group){
-                        return in_array($group,$b->responsibilities);
-                    }) as $bot)
-                        <li class="list-group-item">
-                            {{ $bot->title }}
-                        </li>
-                    @endforeach
-                    </ul>
+                <div class="list-group list-group-flush">
+                @foreach($cultural as $cc)
+                    <a href="{{$cc->getPath()}}" class="list-group-item list-group-item-action">{{ $cc->title}}</a>
                 @endforeach
+                </div>
 
-                    
+
                 @if($page->date) 
                 <p>
                     <strong>Updated {{ date('F j, Y', $page->date) }}</strong><br>
