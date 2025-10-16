@@ -1,4 +1,5 @@
 ---
-title: Te Reo Maori
+title: Te Reo  Māori
 department: Other Languages
 ---
+
