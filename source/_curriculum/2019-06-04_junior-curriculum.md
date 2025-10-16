@@ -15,8 +15,6 @@ The year 9 programme of study at Ruapehu College is split between the core subje
 * Physical Education and Health
 * Digital Technology
 
-
-
 ## Option Tasters
 
 * Performing Arts
@@ -26,8 +24,6 @@ The year 9 programme of study at Ruapehu College is split between the core subje
 * Textiles Technology
 * Food Technology
 * Outdoor education
-
-- - -
 
 # Year 10 Curriculum
 
@@ -41,8 +37,6 @@ The year 10 programme of study at Ruapehu College comprises six core subject, an
 * Social Studies
 * Physical Education and Health
 * Digital Technology
-
-
 
 ## Option Subjects
 
