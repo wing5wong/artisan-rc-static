@@ -276,10 +276,10 @@ collections:
     - {label: "Image", name: "image", widget: "image", required: false}
     - {label: "Body", name: "body", widget: "text", required: false}
     
-  - name: "culturals"
+  - name: "cultural"
     label: "Cultural"
     label_singular: Cultural
-    folder: "source/_culturals"
+    folder: "source/_cultural"
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:
