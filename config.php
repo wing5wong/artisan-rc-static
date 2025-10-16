@@ -57,7 +57,13 @@ return [
         'student_leaders',
         "board_of_trustees",
         "term_dates",
-        'cultural',
+        'cultural'=> [
+            'path' => 'curriculum/cultural/{-title}',
+            'extends' => '_layouts.post',
+            'sort' => '-date',
+            'section' => 'postContent',
+            'isPost' => true,
+        ],
         'cocurricular' => [
             'path' => 'curriculum/cocurricular/{-title}',
             'extends' => '_layouts.post',
