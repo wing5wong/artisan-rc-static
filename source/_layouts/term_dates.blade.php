@@ -55,9 +55,6 @@
                 </p>
                 @endif
 
-                <blockquote data-phpdate="{{ $page->date }}">
-                    <em>WARNING: This post is over a year old. Some of the information this contains may be outdated.</em>
-                </blockquote>
             </div>
 
             <div class="col-sm-12 col-md-3">
