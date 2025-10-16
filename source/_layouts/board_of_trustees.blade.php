@@ -21,7 +21,7 @@
                 @yield('postContent')
 
 
-                @foreach(["Principal","Chairperson","Finance", "Health and Safety", "Discipline", "Property","Staff Representative", "Student Representative","Iwi Representative","Secretary","Member"] as $group)
+                @foreach(["Principal","Presiding Member","Finance", "Health and Safety", "Discipline", "Property","Staff Representative", "Student Representative","Iwi Representative","Secretary","Member"] as $group)
                 <h2>{{ $group }}</h2>
                     <ul class="list-group list-group-flush mb-5">
                     @foreach($board_of_trustees->filter(function($b) use ($group){
