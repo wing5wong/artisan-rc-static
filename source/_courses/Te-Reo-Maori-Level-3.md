@@ -1,11 +1,11 @@
 ---
-title: "Te Reo Maori Level 3"
-description: ""
-year: "13"
-credits: "28"
-course_fees: ""
-course_code: <course_code>
-course_level: "NCEA 3"
-assessment_type: "Achievement Standard"
-subject: "Te Reo Maori"
+title: Te Reo  Māori Level 3
+year: '13'
+description: ''
+credits: '28'
+course_level: NCEA 3
+assessment_type: Achievement Standard
+course_fees: '0'
+subject: Te Reo Maori
 ---
+
