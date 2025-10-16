@@ -1,6 +1,6 @@
 ---
 title: 'Smokefree Rockquest '
-date: 2025-08-27T12:00:00.000Z
+date: 2025-10-15T11:00:00.000Z
 ---
 Smokefree Rockquest 2025, powered by Rockshop, is back and louder than ever! This iconic nationwide music event gives young musicians across Aotearoa the chance to take the stage, perform their own original songs, and soak up the spotlight—from Northland all the way to Southland. It's all about giving youth a platform to express themselves, connect through music, and maybe even take the first step toward a career in the industry.
 
