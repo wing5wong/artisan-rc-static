@@ -82,7 +82,18 @@
                             @endforeach
                             
                         </ul>
+                    </li>
 
+                    <li class="menu-has-children">
+                        <a href="/cultural" style="text-align:center;">Cultural<br>Tikanga</a>
+                        <ul>
+                            @foreach($curriculum as $c)
+                            <li>
+                                <a href="{{$c->getPath()}}">{{$c->title}}</a>
+                            </li>
+                            @endforeach
+                            
+                        </ul>
                     </li>
 
                     <li class="menu-has-children">
