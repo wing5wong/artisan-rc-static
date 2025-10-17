@@ -140,6 +140,7 @@ return [
             : null;
     },
     'imageCdn' => function ($page, $path) {
-        return "https://res.cloudinary.com/{$page->services->cloudinary}/{$path}";
+        return "{$path}";
+        //return "https://res.cloudinary.com/{$page->services->cloudinary}/{$path}";
     },
 ];
