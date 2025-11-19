@@ -39,7 +39,7 @@ Full time, Permanent
 
 Secondary (Years 7–15) / wharekura, Certificated teacher
 
-English
+**English**
 
   Suitable for beginning teachers
 
