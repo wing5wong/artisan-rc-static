@@ -69,26 +69,10 @@ principal@ruapehu.school.nz
 
 (06) 385 8398
 
-**Teacher of Te Reo Māori**
+**Fixed Term intinerent Music / Science teaching position.** 
 
-Full time teaching position.
+ Start date 27.01.26. Submit CV to principal@ruapehu.school.nz by 5 December 2025. 
 
-Secondary (Years 7–15) / wharekura, Certificated teacher
 
-Suitable for beginning teachers
-
-We are seeking a teacher who is an enthusiastic and effective classroom teacher. Please state your supportive subjects. Closes 31 August 2025.
-
-How to apply
-
-Please send your CV, and direct enquiries to:
-
-Marama Allen
-
-30 Tainui St, Ohakune 4625
-
-principal@ruapehu.school.nz
-
-(06) 385 8398
 
 - - -
