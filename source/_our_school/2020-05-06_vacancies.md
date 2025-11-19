@@ -37,11 +37,9 @@ principal@ruapehu.school.nz
 
 Full time, Permanent
 
-Secondary (Years 7–15) / wharekura, Certificated teacher
+Secondary (Years 7–15) / wharekura, Certificated teacher English
 
-**English**
-
-  Suitable for beginning teachers
+ Suitable for beginning teachers
 
 Closes 24 October  2025
 
@@ -68,6 +66,8 @@ Marama Allen
 principal@ruapehu.school.nz
 
 (06) 385 8398
+
+
 
 **Fixed Term intinerent Music / Science teaching position.** 
 
