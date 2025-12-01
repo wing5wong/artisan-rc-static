@@ -1,8 +1,8 @@
 ---
-title: Ms Harriet Pearce
-email: hpearce@ruapehu.school.nz
-date: 2024-04-09T23:18:51.481Z
-roles: English Teacher
+title: Miss Jane Welburn
+email: jwelburn@ruapehu.school.nz
+date: 2025-04-11T12:00:00.000Z
+roles: Learning Support Coordinator (LSC)
 departments:
   - Teaching Staff
 ---
