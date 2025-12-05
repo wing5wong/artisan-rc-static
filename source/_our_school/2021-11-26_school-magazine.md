@@ -3,7 +3,7 @@ extends: _layouts.post
 title: School Magazines
 date: 2025-08-27T12:00:00.000Z
 ---
-[School Magazine 2025](https://drive.google.com/.../1Jun4JtffM6NGTkYwSwy.../view...)
+[School Magazine 2025](https://drive.google.com/file/d/1Jun4JtffM6NGTkYwSwysCQvIFbPuAJxR/view?fbclid=IwY2xjawOfGc9leHRuA2FlbQIxMABicmlkETFZcTVCV0dmaUc4QjQ1NzhCc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHk_CHHBTMzf18rQBn09lZascFjg83aYoRv0qVAfkIAiKNU2pIR6wZl6dqtqF_aem_fRFvb50qIm9sJSTQslzi3w)
 
 [School Magazine 2024](https://res.cloudinary.com/ruapehu-college/image/upload/v1733956096/School_Magazine_2024_Published-compressed_xtz6eh.pdf)
 
