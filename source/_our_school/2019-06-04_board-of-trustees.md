@@ -1,7 +1,7 @@
 ---
 extends: _layouts.board_of_trustees
 title: School Board
-date: 2025-09-17T12:00:00.000Z
+date: 2025-12-27T11:00:00.000Z
 ---
 The Ruapehu College School Board
 
@@ -13,21 +13,9 @@ The meeting dates are below and are held at school in the staff meeting room sta
 
 The dates are:
 
-27 February
+24 February 6pm
 
-27 March
 
-22 May
-
-26 June
-
-24 July
-
-28 August
-
-23 October
-
-27 November
 
 Members who wish to speak before the School Board should email the Chair at chair@ruapehu.school.nz.
 
