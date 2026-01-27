@@ -10,7 +10,7 @@ dates:
   - end_date: 2026-09-24T12:00:00.000Z
     start_date: 2026-07-19T12:00:00.000Z
     title: Term 3
-  - end_date: 2026-10-11T11:00:00.000Z
+  - end_date: 2026-12-09T11:00:00.000Z
     start_date: 2026-10-11T11:00:00.000Z
     title: Term 4
 ---
