@@ -1,8 +1,8 @@
 ---
-title: Ms Fleur Loram
-email: floram@ruapehu.school.nz
-date: 2025-07-18T01:45:54.160Z
-roles: 'Additional Specialist Teacher, Acting Deputy HOD of English'
+title: Miss Gina Knowles
+email: gknowles@ruapehu.school.nz
+date: 2026-01-26T00:45:54.160Z
+roles: HOD of English
 departments:
   - Teaching Staff
 ---
