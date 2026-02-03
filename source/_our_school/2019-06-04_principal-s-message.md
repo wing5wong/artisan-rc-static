@@ -11,6 +11,8 @@ Our kaiako are not just educators; they are passionate mentors committed to givi
 
 
 
-At the heart of our school is the belief that ‘each one counts.’ Every student, every lesson, and every day matters. This culture of care is grounded in our history; we have taught successive generations of local whānau, creating a strong bond where alumni and community members always feel at home. Students leave here with a sense of belonging that lasts a lifetime, ready to seek knowledge: Rapuhia Kote Mātauranga.
+At the heart of our school is the belief that ‘each one counts.’ Every student, every lesson, and every day matters. This culture of care is grounded in our history; we have taught successive generations of local whānau, creating a strong bond where alumni and community members always feel at home. Students leave here with a sense of belonging that lasts a lifetime, ready to seek knowledge: 
+
+Rapuhia Kote Mātauranga.
 
 Principal, Mr Kris Vine
