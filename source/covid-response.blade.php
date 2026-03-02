@@ -13,7 +13,7 @@
         <div class="row">
             <div class="col">
                 <div class="list-group list-group-flush">
-                @foreach($emergency_management as $s)
+                @foreach($school_policies as $s)
                 <a href="{{$s->getPath()}}" class="list-group-item list-group-item-action">{{$s->title}}</a>
                 @endforeach
                 </div>

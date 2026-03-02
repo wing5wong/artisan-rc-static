@@ -123,10 +123,10 @@ return [
             'section' => 'postContent',
             'isPost' => true,
         ],
-        'emergency_management' => [
+        'school_policies' => [
             'path' => [
                 'covid_response' => 'covid-response/{-title}',
-                'emergency_management' => 'emergency-management/{-title}',
+                'school_policies' => 'school-policies/{-title}',
             ],
             'extends' => '_layouts.post',
             'sort' => '-date',

@@ -287,10 +287,10 @@ collections:
     - {label: "Image", name: "image", widget: "image", required: false}
     - {label: "Body", name: "body", widget: "text", required: false}
     
-  - name: "emergency_management"
-    label: "Emergency Management"
-    label_singular: "Emergency Management"
-    folder: "source/_emergency_management"
+  - name: "school_policies"
+    label: "School Policies"
+    label_singular: "School Policy"
+    folder: "source/_school_policies"
     create: true
     slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:

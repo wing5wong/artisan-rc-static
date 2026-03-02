@@ -122,9 +122,9 @@
                     </li> -->
                     
  <li class="menu-has-children">
-                        <a href="/emergency-management" style="text-align:center;">Emergency Management<br>Whakahaere Ohotata</a>
+                        <a href="/school-policies" style="text-align:center;">School Policies<br>Ngā Kaupapa Here o te Kura</a>
                         <ul>
-                            @foreach($emergency_management as $i)
+                            @foreach($school_policies as $i)
                             <li>
                                 <a href="{{$i->getPath()}}">{{$i->title}}</a>
                             </li>
