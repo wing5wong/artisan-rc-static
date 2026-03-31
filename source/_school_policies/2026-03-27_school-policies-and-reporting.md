@@ -21,6 +21,6 @@ SchoolDocs updates, modifies, or creates policies in response to changes in legi
 
 [Strategic Plan 2024-2026](https://res.cloudinary.com/ruapehu-college/image/upload/v1774567195/Strategic-Plan_2024-2026_l10ldc_q03gg2.pdf)
 
-[Annual Implementation Plan 2026](https://res.cloudinary.com/ruapehu-college/image/upload/v1774986677/Annual_implementation_2026_2_fy9d0s.pdf)
+[Annual Implementation Plan 2026](https://res.cloudinary.com/ruapehu-college/image/upload/v1774989237/Annual_implementation_plan_2026_bchuar.pdf)
 
 [Literacy and Numeracy Action Plan](https://res.cloudinary.com/ruapehu-college/image/upload/v1774567903/Literacy_and_Numeracy_Action_Plan_bfiew6_emxy6c.pdf)
