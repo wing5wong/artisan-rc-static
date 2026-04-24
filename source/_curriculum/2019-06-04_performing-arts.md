@@ -1,6 +1,6 @@
 ---
 title: Performing Arts
-date: 2025-08-28T10:30:10.600Z
+date: 2026-04-24T10:30:10.600Z
 ---
 ![](https://res.cloudinary.com/ruapehu-college/image/upload/v1564527414/The_killer_reveals_herself_Nurse_Anne_Franklin_Kate_Rowe_looks_to_finish_the_game..._and_Perry_Ryan_Burton_._qvsxsz.jpg)
 
