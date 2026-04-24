@@ -9,4 +9,4 @@ As part of the food requirements, food allergens and restrictions due to religio
 
 **School Lunch Team**
 
-Our wonderful school lunch team, Bubba Wall and Talia Ruki who are making our student lunches. The students say they were really yummy.
+Our wonderful school lunch team, Bubba Wall and Melissa Kennedy who are making our student lunches. The students say they were really yummy.
