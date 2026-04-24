@@ -23,6 +23,6 @@ Following a curriculum pathway is very important to increase the likelihood for 
 
    Year 10 – September.
 
- Any further queries regarding subject selection, please do not hesitate to contact Marama Allen at the college.
+ Any further queries regarding subject selection, please do not hesitate to contact Kris Vine principal@ruapehu.school.nz at the college.
 
 [Senior Subject Selection Booklet](https://res.cloudinary.com/ruapehu-college/image/upload/v1662429074/2022_student_info_booklet_1_xrf8nf.pdf)
