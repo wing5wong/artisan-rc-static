@@ -5,8 +5,6 @@ date: 2025-12-27T11:00:00.000Z
 ---
 The Ruapehu College School Board
 
-![](https://res.cloudinary.com/ruapehu-college/image/upload/v1740965284/DSC_6958_ckong6.jpg)
-
 Our School Board meetings are open to the public, students, staff and whānau may attend. All welcome. 
 
 The meeting dates are below and are held at school in the staff meeting room starting at 6pm.
