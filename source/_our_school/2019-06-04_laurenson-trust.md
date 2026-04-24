@@ -8,7 +8,7 @@ The Laurenson Trust, was set up by John and Sue Laurenson. The Trust provides fu
 
 Both, however, continue their involvement with the Trust, John as Chairperson and Sue as Secretary/Treasurer.
 
-The other Trustees are Steve Mackrell, Deputy Principal; Shelagh Buck, Staff Representative;  Community Representative; and Malcolm Haig Co-Ordinator of the North Island Secondary Schools Snowboarding Competition.
+The other Trustees are Kris Vine Principal; Matthew Laurenson, Staff Representative;  Bevan Thompson Community Representative; and Malcolm Haig Co-Ordinator of the North Island Secondary Schools Snowboarding Competition.
 
 The Trust funds have been generated from donations, fundraising and profits from the operation of the North Island Secondary Schools Skiing and Snowboarding competitions. The Trust currently has $250,000 invested and the interest earned on this is used to pay grants.
 
