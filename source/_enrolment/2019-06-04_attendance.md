@@ -1,11 +1,13 @@
 ---
 title: Attendance
 date: 2025-08-27T12:00:00.000Z
+tags:
+  - ''
 ---
 Parents can notify non-attendance at school via 4 channels:
 
-1. Text message (preferred method) 022 045 0441
-2. Facebook page - Ruapehu College
+1. Ring 063858398 Press 1 for Absenteeism and leave a message
+2. Private Message Facebook -Ruapehu College
 3. Email - office@ruapehu.school.nz
 4. Kamar App
 
