@@ -1,6 +1,6 @@
 ---
 title: Attendance
-date: 2025-08-27T12:00:00.000Z
+date: 2026-04-27T12:00:00.000Z
 tags:
   - ''
 ---
