@@ -1,6 +1,6 @@
 ---
-title: Liam Burnard
-date: 2025-02-01T11:00:00.000Z
+title: Gerrard Osborne
+date: 2026-04-28T12:00:00.000Z
 position: Deputy Head Boy
 ---
 
