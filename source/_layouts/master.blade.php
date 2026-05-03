@@ -95,8 +95,8 @@
                         </ul>
                     </li>
 
-                    <li class="menu-has-children">
-                        <a href="https://ruapehu.school.kiwi/notices" class="sf-with-ul" style="text-align:center;">Notices<br>Pānui</a>
+                    <li class="">
+                        <a href="https://ruapehu.school.kiwi/notices" class="" style="text-align:center;">Notices<br>Pānui</a>
                     </li>
                     <!-- <li class="menu-has-children">
                         <a href="/international">International</a>
