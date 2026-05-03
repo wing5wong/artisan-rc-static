@@ -124,7 +124,7 @@ return [
             'isPost' => true,
         ],
         'school_policies' => [
-            'path' => 'school_policies' => 'school-policies/{-title}',
+            'path' => 'school-policies/{-title}',
             'extends' => '_layouts.post',
             'sort' => '-date',
             'section' => 'postContent',
