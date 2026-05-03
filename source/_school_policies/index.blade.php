@@ -1,1 +1,0 @@
-covid response index
