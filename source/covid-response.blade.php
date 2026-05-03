@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-sm-12">
                 <h1>
-                   COVID-19 Response
+                   School Policies
                 </h1>
             </div>
         </div>
