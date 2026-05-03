@@ -124,10 +124,7 @@ return [
             'isPost' => true,
         ],
         'school_policies' => [
-            'path' => [
-                'covid_response' => 'covid-response/{-title}',
-                'school_policies' => 'school-policies/{-title}',
-            ],
+            'path' => 'school_policies' => 'school-policies/{-title}',
             'extends' => '_layouts.post',
             'sort' => '-date',
             'section' => 'postContent',
