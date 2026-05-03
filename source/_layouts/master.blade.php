@@ -61,6 +61,9 @@
                     <li class="menu-has-children">
                         <a href="/our-school" style="text-align:center;">Our School<br>Tō Mātau Kura</a>
                         <ul>
+                            <li>
+                                <a href="https://ruapehu.school.kiwi/calendar">Calendar</a>
+                            </li>
                             @foreach($our_school as $s)
                             <li>
                                 <a href="{{$s->getPath()}}">{{$s->title}}</a>
@@ -72,9 +75,6 @@
                     <li class="menu-has-children">
                         <a href="/curriculum" style="text-align:center;">Curriculum<br>Marautanga</a>
                         <ul>
-                        <li>
-                        <a href="https://sites.google.com/ruapehu.school.nz/academicmentoring/home">Academic Mentoring</a>
-                        </li>
                             @foreach($curriculum as $c)
                             <li>
                                 <a href="{{$c->getPath()}}">{{$c->title}}</a>
@@ -97,17 +97,6 @@
 
                     <li class="menu-has-children">
                         <a href="https://ruapehu.school.kiwi/notices" class="sf-with-ul" style="text-align:center;">Notices<br>Pānui</a>
-                        <ul>
-                            <li>
-                                <a href="/news/newsletters">Newsletters</a>
-                            </li>
-                            <!-- <li>
-                                <a href="https://kamar.ruapehu.school.nz/index.php/">Events</a>
-                            </li> -->
-                            <li>
-                                <a href="https://ruapehu.school.kiwi/calendar">Calendar</a>
-                            </li>
-                        </ul>
                     </li>
                     <!-- <li class="menu-has-children">
                         <a href="/international">International</a>
