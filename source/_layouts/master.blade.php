@@ -95,9 +95,7 @@
                         </ul>
                     </li>
 
-                    <li class="">
-                        <a href="https://ruapehu.school.kiwi/notices" class="" style="text-align:center;">KAMAR Portal</a>
-                    </li>
+
                     <!-- <li class="menu-has-children">
                         <a href="/international">International</a>
                         <ul>
@@ -124,6 +122,10 @@
                     
                     <li>
                         <a href="/contact" style="text-align:center;">Contact Us<br>Whakapā mai</a>
+                    </li>
+
+                    <li class="">
+                        <a href="https://ruapehu.school.kiwi/notices" class="" style="text-align:center;">KAMAR Portal</a>
                     </li>
 
                     <li class="social-links"><a href="https://www.facebook.com/RuapehuCollege/" class="facebook"><i class="fa fa-facebook"></i></a></li>
