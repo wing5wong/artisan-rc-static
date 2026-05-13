@@ -26,9 +26,13 @@ Senior Girl: Rebekah Swift
 Senior Boy: Connor Anderson
 
 House Points
+
 1st Kiwi 483 points
+
 2nd Tui 463 points
+
 3rd Huia 344 points
+
 4th Weka  305 points
 
 
