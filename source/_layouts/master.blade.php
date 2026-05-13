@@ -96,7 +96,7 @@
                     </li>
 
                     <li class="">
-                        <a href="https://ruapehu.school.kiwi/notices" class="" style="text-align:center;">Notices<br>Pānui</a>
+                        <a href="https://ruapehu.school.kiwi/notices" class="" style="text-align:center;">KAMAR Portal</a>
                     </li>
                     <!-- <li class="menu-has-children">
                         <a href="/international">International</a>
