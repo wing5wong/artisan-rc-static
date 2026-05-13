@@ -14,10 +14,15 @@ Congratulations to all out participants, winners and the staff who organised the
 Age Group Champions
 
 Junior Girl: Amelia Deadman
+
 Junior Boy: Tawhaiora Christensen-Hagley
+
 Intermediate Girl: Maddie Demchy
+
 Intermediate Boy: Liam McDonough
+
 Senior Girl: Rebekah Swift
+
 Senior Boy: Connor Anderson
 
 House Points
