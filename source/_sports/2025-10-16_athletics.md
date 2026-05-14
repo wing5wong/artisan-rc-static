@@ -35,4 +35,23 @@ House Points
 
 4th Weka  305 points
 
+The following students were selected for the Whanganui Secondary Schools Athletics Competition:
+
+Hana Harding
+Vanessa Ashford-Wallis
+Maddie Demchy
+Zayden Madden
+Amelia Deadman
+Heleyna Hammond
+Sarah Herewini
+Violet Soverel
+Tawhaiora Christensen-Hagley
+Keisha McDonough
+Liam McDonough
+Kace Morrison
+Chase Renata
+Rebekah Swift
+Torin Thompson
+
+
 
