@@ -6,4 +6,4 @@ image: ''
 ---
 [Ruapehu College Bank Deposit Slip](https://res.cloudinary.com/ruapehu-college/image/upload/v1580764768/Ruapehu_College_Bank_Deposit_Slip_nbpdas.jpg)
 
-[Annual Financial Report](https://res.cloudinary.com/ruapehu-college/image/upload/v1754949976/Ruapehu_College_AFS_2024_-_Signed_1_bsmqxe.pdf)
+[Annual Financial Report](https://res.cloudinary.com/ruapehu-college/image/upload/v1782787935/Signed_Annual_Financial_Statements_d6c80e.pdf)
